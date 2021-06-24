@@ -1,0 +1,12 @@
+model_id,96
+username,bryanleeomalley
+total_posts,100
+total_positive,56
+total_negative,44
+percent_positive,0.56
+percent_negative,0.44
+average_positive_likelihood,0.7156437177721451
+average_negative_likelihood,0.284356282227855
+depressed,False
+switchpoint,0.8
+classification_switchpoint,0.96

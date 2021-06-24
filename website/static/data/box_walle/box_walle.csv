@@ -1,0 +1,12 @@
+model_id,96
+username,box_walle
+total_posts,200
+total_positive,61
+total_negative,139
+percent_positive,0.305
+percent_negative,0.695
+average_positive_likelihood,0.44832404556830546
+average_negative_likelihood,0.5516759544316939
+depressed,False
+switchpoint,0.8
+classification_switchpoint,0.96

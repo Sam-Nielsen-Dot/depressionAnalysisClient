@@ -1,0 +1,16 @@
+{% extends "layout.html" %}
+
+{%block header%}
+<h5 class="card-subtitle mb-2 text-muted" style="text-align:center;">Analyse username:</h5>
+{%endblock%}
+
+{% block content %}
+
+<br>
+
+<form action="/" method="POST">
+    <input type="text" id="username" name="username">
+    <input type="submit" value="Search">     
+</form>
+
+{%endblock content%}

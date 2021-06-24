@@ -1,0 +1,12 @@
+model_id,96
+username,pokimanelol
+total_posts,200
+total_positive,127
+total_negative,73
+percent_positive,0.635
+percent_negative,0.365
+average_positive_likelihood,0.7287768353169563
+average_negative_likelihood,0.2712231646830427
+depressed,False
+switchpoint,0.8
+classification_switchpoint,0.96

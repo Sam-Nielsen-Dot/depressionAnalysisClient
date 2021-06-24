@@ -1,0 +1,12 @@
+model_id,96
+username,peakyzaynart
+total_posts,216
+total_positive,132
+total_negative,84
+percent_positive,0.6111111111111112
+percent_negative,0.3888888888888889
+average_positive_likelihood,0.7223651707509089
+average_negative_likelihood,0.27763482924909
+depressed,False
+switchpoint,0.8
+classification_switchpoint,0.96

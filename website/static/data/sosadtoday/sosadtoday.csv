@@ -1,0 +1,12 @@
+model_id,96
+username,sosadtoday
+total_posts,100
+total_positive,62
+total_negative,38
+percent_positive,0.62
+percent_negative,0.38
+average_positive_likelihood,0.853993025557553
+average_negative_likelihood,0.1460069744424465
+depressed,True
+switchpoint,0.8
+classification_switchpoint,0.96

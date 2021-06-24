@@ -1,0 +1,125 @@
+{% extends "layout.html" %}
+
+{%block header%}
+<h3 class="card-subtitle mb-2 text-muted" style="text-align:center;">{{username}}</h3>
+{%endblock%}
+
+{% block content %}
+
+
+<p><b>Username:</b> {{user_stats.username}}</p>
+
+
+<p><b>Total posts: </b>{{user_stats.total_posts}}</p>
+
+
+<p><b>Total positive:</b> {{user_stats.total_positive}}</p>
+
+
+<p><b>Total negative:</b> {{user_stats.total_negative}}</p>
+
+<p><b>Percent positive:</b> {{user_stats.percent_positive}}</p>
+
+<p><b>Percent negative:</b> {{user_stats.percent_negative}}</p>
+
+<p><b>Average positive likelihood:</b> {{user_stats.average_positive_likelihood}}</p>
+
+<p><b>Average negative likelihood:</b> {{user_stats.average_negative_likelihood}}</p>
+
+<p><b>Depressed:</b> {{user_stats.depressed}}</p>
+
+<div id="dot-chart"></div>
+<br>
+<h3 class="card-subtitle mb-2 text-muted" style="text-align:center;">Most depressed post</h3>
+{{posts.0.text}}
+<br>
+<h3 class="card-subtitle mb-2 text-muted" style="text-align:center;">Least depressed post</h3>
+
+{% set last = posts|last %}
+    {{last.text}}
+<hr>
+<br>
+<a href="{{url_for('index')}}">Home</a>
+<br>
+<a href="{{url_for('download', username=user_stats.username, filename=json)}}">Download json data</a>
+<br>
+<a href="{{url_for('download', username=user_stats.username, filename=csv)}}">Download csv data</a>
+<br>
+<a href="{{url_for('download', username=user_stats.username, filename=xlsx)}}">Download xlsx data</a>
+<br>
+<a href="{{url_for('download', username=user_stats.username, filename=xlsx_post)}}">Download xlsx individual post data</a>
+
+
+{%endblock content%}
+
+{%block end%}
+
+<script>
+
+var user_data = {{ data|safe }};
+var dotDiv = document.getElementById("dot-chart");
+
+const posts_x = []
+const posts_y = []
+for (let i = 0; i < user_data.posts.length; i++){
+    posts_x[i] = user_data.posts[i]["positive_likelihood"]
+    posts_y[i] = user_data.posts[i]["negative_likelihood"]
+}
+
+var traceA = {
+  type: "scatter",
+  mode: "markers",
+  x: posts_x,
+  y: posts_y,
+  name: 'Depressed',
+  marker: {
+    color: 'rgba(156, 165, 196, 0.5)',
+    line: {
+      color: 'rgba(156, 165, 196, 1)',
+      width: 1,
+    },
+    symbol: 'circle',
+    size: 20
+  },
+  hoverlabel: {
+    bgcolor: 'black',
+  }
+};
+
+
+
+var data = [traceA];
+
+var layout = {
+  title: 'Distribution of depressive likelihood in posts by @{{username}}',
+  xaxis: {
+    title: "Depressive likelihood",
+    showgrid: false,
+    showline: true,
+    linecolor: 'rgb(200, 0, 0)',
+    ticks: 'inside',
+    tickcolor: 'rgb(200, 0, 0)',
+    tickwidth: 4
+  },
+  yaxis: {
+      title: "Not depressive likelihood"
+  },
+  legend: {
+    bgcolor: 'white',
+    borderwidth: 1,
+    bordercolor: 'black',
+    orientation: 'h',
+    xanchor: 'center',
+    x: 0.5,
+    font: {
+      size: 12,
+    }
+  },
+  paper_bgcolor: 'rgb(255, 230, 255)',
+  plot_bgcolor: 'rgb(255, 230, 255)'
+};
+
+Plotly.plot(dotDiv, data, layout);
+</script>
+
+{%endblock end%}

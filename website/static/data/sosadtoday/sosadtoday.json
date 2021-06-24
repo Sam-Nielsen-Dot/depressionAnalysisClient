@@ -1,0 +1,616 @@
+{
+    "model_id": 96,
+    "username": "sosadtoday",
+    "total_posts": 100,
+    "total_positive": 62,
+    "total_negative": 38,
+    "percent_positive": 0.62,
+    "percent_negative": 0.38,
+    "average_positive_likelihood": 0.853993025557553,
+    "average_negative_likelihood": 0.1460069744424465,
+    "posts": [
+        {
+            "text": "bring your own serotonin",
+            "classification": 0,
+            "positive_likelihood": 0.8099080682436568,
+            "negative_likelihood": 0.1900919317563422
+        },
+        {
+            "text": "said something nice to myself but then was like \"you're wrong\"",
+            "classification": 1,
+            "positive_likelihood": 0.99999954452582,
+            "negative_likelihood": 4.554741802878021e-07
+        },
+        {
+            "text": "is it cool if I channel my anxiety into being obsessed with you",
+            "classification": 1,
+            "positive_likelihood": 0.9903040280834638,
+            "negative_likelihood": 0.009695971916535557
+        },
+        {
+            "text": "what the fuck is everything",
+            "classification": 0,
+            "positive_likelihood": 0.7304526557359692,
+            "negative_likelihood": 0.26954734426403054
+        },
+        {
+            "text": "i don\u2019t really see the point of me",
+            "classification": 1,
+            "positive_likelihood": 0.9998214761102927,
+            "negative_likelihood": 0.00017852388970731505
+        },
+        {
+            "text": "taking shit personally so i can feel like i matter",
+            "classification": 1,
+            "positive_likelihood": 0.999978139490366,
+            "negative_likelihood": 2.186050963428606e-05
+        },
+        {
+            "text": "\ud83d\udc95\ud83d\udcd9\ud83d\udc80\ud83c\udf34\ud83c\udf08\ud83e\uddb7\ud83c\udf54\ud83d\udc44\ud83c\udf08",
+            "classification": 0,
+            "positive_likelihood": 0.0031006185593888676,
+            "negative_likelihood": 0.9968993814406111
+        },
+        {
+            "text": "thinking about skincare and death",
+            "classification": 1,
+            "positive_likelihood": 0.9877108440080623,
+            "negative_likelihood": 0.012289155991938028
+        },
+        {
+            "text": "the seven stages of getting out of bed",
+            "classification": 0,
+            "positive_likelihood": 0.5571665320455478,
+            "negative_likelihood": 0.44283346795445255
+        },
+        {
+            "text": "rejoin society? honey, i never joined",
+            "classification": 1,
+            "positive_likelihood": 0.9780171410314066,
+            "negative_likelihood": 0.021982858968591482
+        },
+        {
+            "text": "no human interactions, thanks",
+            "classification": 0,
+            "positive_likelihood": 0.7251608949285353,
+            "negative_likelihood": 0.2748391050714634
+        },
+        {
+            "text": "\ud83c\udf11\ud83c\udf12\ud83c\udf13\ud83c\udf14\ud83c\udf15\ud83c\udf16\ud83c\udf17\ud83c\udf18\ud83c\udf11 AUG 10 COMETH SUPERDOOM \ud83c\udf11\ud83c\udf12\ud83c\udf13\ud83c\udf14\ud83c\udf15\ud83c\udf16\ud83c\udf17\ud83c\udf18\ud83c\udf11 an anthology of my poems \ud83c\udf11\ud83c\udf12\ud83c\udf13\ud83c\udf14\ud83c\udf15\ud83c\udf16\ud83c\udf17\ud83c\udf18\ud83c\udf11 ft. the good shit from my 3 out of print cult books\u2014Mother, Meat Heart &amp; Scarecrone\u2014&amp; Last Sext + new intro by me \ud83c\udf11\ud83c\udf12\ud83c\udf13\ud83c\udf14\ud83c\udf15\ud83c\udf16\ud83c\udf17\ud83c\udf18\ud83c\udf11 get a signed copy  https://t.co/gff6rA9mIM  https://t.co/6LIJqCxa8y",
+            "classification": 1,
+            "positive_likelihood": 0.9999999999751381,
+            "negative_likelihood": 2.4857643071010882e-11
+        },
+        {
+            "text": "forgave myself but then forgot",
+            "classification": 0,
+            "positive_likelihood": 0.24085217701272063,
+            "negative_likelihood": 0.7591478229872788
+        },
+        {
+            "text": "what\u2019s wrong with me: the musical",
+            "classification": 1,
+            "positive_likelihood": 0.9982902310093513,
+            "negative_likelihood": 0.0017097689906503887
+        },
+        {
+            "text": "university of avoiding feelings",
+            "classification": 1,
+            "positive_likelihood": 0.9880956605597719,
+            "negative_likelihood": 0.011904339440228071
+        },
+        {
+            "text": "i mean, fuck everything kind of",
+            "classification": 1,
+            "positive_likelihood": 0.9957892885842851,
+            "negative_likelihood": 0.004210711415713159
+        },
+        {
+            "text": "well today is already destroyed so might as well fuck it up some more",
+            "classification": 1,
+            "positive_likelihood": 0.9970819792966688,
+            "negative_likelihood": 0.0029180207033321307
+        },
+        {
+            "text": "to do: -denial -anger -bargaining -depression -something",
+            "classification": 0,
+            "positive_likelihood": 0.1666375658379433,
+            "negative_likelihood": 0.8333624341620576
+        },
+        {
+            "text": "watching myself get more insecure in slow motion",
+            "classification": 1,
+            "positive_likelihood": 0.9959611561211412,
+            "negative_likelihood": 0.004038843878860729
+        },
+        {
+            "text": "when people talk about self-love i feel like they\u2019re joking",
+            "classification": 1,
+            "positive_likelihood": 0.9999999877017125,
+            "negative_likelihood": 1.229828332013726e-08
+        },
+        {
+            "text": "someone sent me \u201clove and light\u201d but i never got the package",
+            "classification": 1,
+            "positive_likelihood": 0.9999999030378237,
+            "negative_likelihood": 9.696217646179192e-08
+        },
+        {
+            "text": "i love getting attention and pretending i don\u2019t care about getting attention",
+            "classification": 1,
+            "positive_likelihood": 0.9999978707431407,
+            "negative_likelihood": 2.1292568575358057e-06
+        },
+        {
+            "text": "awwww look at these cute red flags",
+            "classification": 0,
+            "positive_likelihood": 0.007355564553726748,
+            "negative_likelihood": 0.9926444354462723
+        },
+        {
+            "text": "sorry, i can't, i'm contemplating my cosmic aloneness",
+            "classification": 1,
+            "positive_likelihood": 0.9999979442510157,
+            "negative_likelihood": 2.055748982983884e-06
+        },
+        {
+            "text": "for those of you who didn't know i had a podcast, you're probably better off",
+            "classification": 0,
+            "positive_likelihood": 0.624189943618058,
+            "negative_likelihood": 0.37581005638194115
+        },
+        {
+            "text": "my podcast will be back as soon as i am able to tolerate the sound of my own voice again",
+            "classification": 1,
+            "positive_likelihood": 0.9981834026088049,
+            "negative_likelihood": 0.001816597391196531
+        },
+        {
+            "text": "reminder that after 5 minutes i always want to leave",
+            "classification": 1,
+            "positive_likelihood": 0.9986149604078175,
+            "negative_likelihood": 0.0013850395921854142
+        },
+        {
+            "text": "i never did trust hope",
+            "classification": 0,
+            "positive_likelihood": 0.8460540808616595,
+            "negative_likelihood": 0.15394591913834116
+        },
+        {
+            "text": "saying no to everything",
+            "classification": 0,
+            "positive_likelihood": 0.39029204138379914,
+            "negative_likelihood": 0.6097079586162002
+        },
+        {
+            "text": "i\u2019m a silence addict. i need more and more silence just to maintain",
+            "classification": 1,
+            "positive_likelihood": 0.9999954254951284,
+            "negative_likelihood": 4.574504871050282e-06
+        },
+        {
+            "text": "trying to figure out what to regret",
+            "classification": 0,
+            "positive_likelihood": 0.856094386627752,
+            "negative_likelihood": 0.14390561337224714
+        },
+        {
+            "text": "i don\u2019t have self-esteem but i do have an ego",
+            "classification": 1,
+            "positive_likelihood": 0.9999872658042165,
+            "negative_likelihood": 1.2734195781854623e-05
+        },
+        {
+            "text": "here is Bob with Pickle \ud83d\udc96\ud83d\udc96\ud83d\udc96  https://t.co/NkPmUYjK7K",
+            "classification": 0,
+            "positive_likelihood": 0.0042380494789447856,
+            "negative_likelihood": 0.9957619505210559
+        },
+        {
+            "text": "rest in peace my beloved father. your memory is already a blessing.  https://t.co/YPsVDBxwsu",
+            "classification": 1,
+            "positive_likelihood": 0.9998291662597713,
+            "negative_likelihood": 0.0001708337402305976
+        },
+        {
+            "text": "what does \u201cstay strong\u201d mean and do i have to?",
+            "classification": 1,
+            "positive_likelihood": 0.9999931566248749,
+            "negative_likelihood": 6.843375125098124e-06
+        },
+        {
+            "text": "do i support the politics and values of people i\u2019m following? honey, i don\u2019t even know who the fuck i\u2019m following",
+            "classification": 1,
+            "positive_likelihood": 0.9999999979632269,
+            "negative_likelihood": 2.0367746414332192e-09
+        },
+        {
+            "text": "what\u2019s the point, yo?",
+            "classification": 1,
+            "positive_likelihood": 0.9979100993217396,
+            "negative_likelihood": 0.002089900678261869
+        },
+        {
+            "text": "anxiety or it didn\u2019t happen",
+            "classification": 1,
+            "positive_likelihood": 0.9999988377260985,
+            "negative_likelihood": 1.162273900263552e-06
+        },
+        {
+            "text": "\u201cdon\u2019t be paranoid\u201d  \u201cnah, i\u2019ll be paranoid\u201d",
+            "classification": 1,
+            "positive_likelihood": 0.9999991224684021,
+            "negative_likelihood": 8.775315962468658e-07
+        },
+        {
+            "text": "when people are nice to me i panic",
+            "classification": 0,
+            "positive_likelihood": 0.807729463594379,
+            "negative_likelihood": 0.19227053640562083
+        },
+        {
+            "text": "i'm not brave i'm just impulsive",
+            "classification": 0,
+            "positive_likelihood": 0.7737376701100044,
+            "negative_likelihood": 0.22626232988999526
+        },
+        {
+            "text": "am i going to get in trouble for being me",
+            "classification": 0,
+            "positive_likelihood": 0.4319818993850691,
+            "negative_likelihood": 0.5680181006149301
+        },
+        {
+            "text": "i\u2019m being true to myself by sleeping all the time",
+            "classification": 1,
+            "positive_likelihood": 0.9986077995892964,
+            "negative_likelihood": 0.0013922004107035986
+        },
+        {
+            "text": "i\u2019m very no",
+            "classification": 0,
+            "positive_likelihood": 0.8865080457202398,
+            "negative_likelihood": 0.11349195427975964
+        },
+        {
+            "text": "feeling slightly off so obviously dying",
+            "classification": 1,
+            "positive_likelihood": 0.996454394814784,
+            "negative_likelihood": 0.0035456051852153525
+        },
+        {
+            "text": "after five months in the ICU, my dad is now at a rehab hospital.  it is my deepest wish that they are able to help him swallow again so he can get off the feeding tube and trach tube.   he dreams of deli and chinese food.  my heart.  thanks to all of you who have checked in",
+            "classification": 1,
+            "positive_likelihood": 1.0,
+            "negative_likelihood": 5.938544032515479e-19
+        },
+        {
+            "text": "powered by insecurity",
+            "classification": 0,
+            "positive_likelihood": 0.8961876457881516,
+            "negative_likelihood": 0.1038123542118491
+        },
+        {
+            "text": "come hang out with my anxiety",
+            "classification": 1,
+            "positive_likelihood": 0.9973023546377107,
+            "negative_likelihood": 0.0026976453622888706
+        },
+        {
+            "text": "when i hear people talk i honestly feel like i\u2019m from another planet",
+            "classification": 1,
+            "positive_likelihood": 0.9999999998857129,
+            "negative_likelihood": 1.142860721134257e-10
+        },
+        {
+            "text": "let's feel bad for each other",
+            "classification": 0,
+            "positive_likelihood": 0.9221744266176244,
+            "negative_likelihood": 0.07782557338237617
+        },
+        {
+            "text": "if i were a tree, i feel like it wouldn't be that cool of a tree",
+            "classification": 1,
+            "positive_likelihood": 0.9715145217853465,
+            "negative_likelihood": 0.028485478214653123
+        },
+        {
+            "text": "i'm fine to be around people for five minutes or less",
+            "classification": 1,
+            "positive_likelihood": 0.9996272767106794,
+            "negative_likelihood": 0.000372723289319243
+        },
+        {
+            "text": "this is a long apocalypse",
+            "classification": 0,
+            "positive_likelihood": 0.18945123115837856,
+            "negative_likelihood": 0.8105487688416213
+        },
+        {
+            "text": "my version of impulse control is just regret",
+            "classification": 1,
+            "positive_likelihood": 0.9972596420942905,
+            "negative_likelihood": 0.0027403579057085517
+        },
+        {
+            "text": "university of existential aloneness",
+            "classification": 1,
+            "positive_likelihood": 0.9999884950043942,
+            "negative_likelihood": 1.1504995604413006e-05
+        },
+        {
+            "text": "i don\u2019t trust life",
+            "classification": 1,
+            "positive_likelihood": 0.9997605835484895,
+            "negative_likelihood": 0.00023941645151136058
+        },
+        {
+            "text": "q: is everything getting shittier?  a: yes",
+            "classification": 1,
+            "positive_likelihood": 0.9776907335692194,
+            "negative_likelihood": 0.022309266430779313
+        },
+        {
+            "text": "no i can\u2019t just face reality",
+            "classification": 1,
+            "positive_likelihood": 0.9996122167478266,
+            "negative_likelihood": 0.0003877832521731153
+        },
+        {
+            "text": "sorry but i hate everything more than you do",
+            "classification": 0,
+            "positive_likelihood": 0.9301291084410237,
+            "negative_likelihood": 0.0698708915589757
+        },
+        {
+            "text": "bad decisions are so exciting",
+            "classification": 0,
+            "positive_likelihood": 0.2751272400954061,
+            "negative_likelihood": 0.7248727599045938
+        },
+        {
+            "text": "not sure how to exist",
+            "classification": 0,
+            "positive_likelihood": 0.497251642857657,
+            "negative_likelihood": 0.5027483571423426
+        },
+        {
+            "text": "i give great advice to everyone except me",
+            "classification": 1,
+            "positive_likelihood": 0.9840459910613286,
+            "negative_likelihood": 0.015954008938668874
+        },
+        {
+            "text": "we should lose hope together",
+            "classification": 0,
+            "positive_likelihood": 0.7114506597302508,
+            "negative_likelihood": 0.2885493402697494
+        },
+        {
+            "text": "when you realize the person you were obsessed with is just a person, it's sad",
+            "classification": 1,
+            "positive_likelihood": 0.9989189817929027,
+            "negative_likelihood": 0.0010810182070965918
+        },
+        {
+            "text": "no of course i don\u2019t know what i want",
+            "classification": 1,
+            "positive_likelihood": 0.9997258652324209,
+            "negative_likelihood": 0.00027413476757846416
+        },
+        {
+            "text": "it feels good to know you suck now",
+            "classification": 0,
+            "positive_likelihood": 0.9096884642764059,
+            "negative_likelihood": 0.09031153572359386
+        },
+        {
+            "text": "i never know what i\u2019m feeling because i don\u2019t want to",
+            "classification": 1,
+            "positive_likelihood": 0.9999981866897337,
+            "negative_likelihood": 1.8133102662281293e-06
+        },
+        {
+            "text": "spoiler: existential crisis",
+            "classification": 1,
+            "positive_likelihood": 0.9987783660689696,
+            "negative_likelihood": 0.0012216339310325583
+        },
+        {
+            "text": "high on regret",
+            "classification": 0,
+            "positive_likelihood": 0.6332338235416046,
+            "negative_likelihood": 0.3667661764583954
+        },
+        {
+            "text": "no i\u2019m not going to feel my feelings",
+            "classification": 1,
+            "positive_likelihood": 0.9999337633342962,
+            "negative_likelihood": 6.623666570439242e-05
+        },
+        {
+            "text": "forgot that life is pain and then remembered again",
+            "classification": 0,
+            "positive_likelihood": 0.9554387251165104,
+            "negative_likelihood": 0.04456127488349002
+        },
+        {
+            "text": "will revealing my needs make me unloveable? stay tuned for the thrilling conclusion!",
+            "classification": 1,
+            "positive_likelihood": 0.9983195257215506,
+            "negative_likelihood": 0.0016804742784499505
+        },
+        {
+            "text": "i feel confused but too tired to grapple with the confusion, which is, in a strange way, a relief",
+            "classification": 1,
+            "positive_likelihood": 0.999999288106246,
+            "negative_likelihood": 7.118937519090804e-07
+        },
+        {
+            "text": "@elreycriollo @melissabroder something like every time i go to record an episode my heart just sinks. i think my cup is just really empty and tweeting / writing feels easier right now. but i will be back. thank you for missing me, it\u2019s really nice and means a lot",
+            "classification": 1,
+            "positive_likelihood": 1.0,
+            "negative_likelihood": 2.3761793100432324e-19
+        },
+        {
+            "text": "@elreycriollo @melissabroder i\u2019m traveling back and forth right now to the east coast to spend time with my dad (who is still in icu on feeding tube and oxygen though awake and talking, which is maybe harder because he knows what\u2019s happening) and i feel resistant to hearing the sound of my own voice or",
+            "classification": 1,
+            "positive_likelihood": 1.0,
+            "negative_likelihood": 2.343507720492758e-23
+        },
+        {
+            "text": "we love you gian \ud83d\udd25\ud83d\udd25\ud83d\udd25\ud83d\udd25\ud83c\udf39\ud83d\udd25\ud83d\udd25\ud83c\udf39\ud83d\udd25\ud83d\udd25\ud83d\udd25\ud83d\udd25\ud83c\udf39\ud83c\udf39\ud83c\udf39\ud83d\udd25\ud83d\udd25\ud83d\udd25\ud83d\udd25\ud83c\udf39",
+            "classification": 0,
+            "positive_likelihood": 0.11705048666349349,
+            "negative_likelihood": 0.882949513336506
+        },
+        {
+            "text": "oh look it\u2019s a hell of my own making",
+            "classification": 1,
+            "positive_likelihood": 0.9894554309260734,
+            "negative_likelihood": 0.010544569073928452
+        },
+        {
+            "text": "no i don\u2019t know what the fuck is going on, what do i look like, someone who knows what the fuck is going on?",
+            "classification": 1,
+            "positive_likelihood": 0.9999996070012872,
+            "negative_likelihood": 3.929987128545029e-07
+        },
+        {
+            "text": "i\u2019m cool when i\u2019m alone",
+            "classification": 1,
+            "positive_likelihood": 0.9922161964090938,
+            "negative_likelihood": 0.007783803590906321
+        },
+        {
+            "text": "*whispers during sex* does my stupid life look ok online?",
+            "classification": 1,
+            "positive_likelihood": 0.9993992429883347,
+            "negative_likelihood": 0.0006007570116652757
+        },
+        {
+            "text": "i liked it when i didn\u2019t know you existed",
+            "classification": 1,
+            "positive_likelihood": 0.9999703908877605,
+            "negative_likelihood": 2.960911223897761e-05
+        },
+        {
+            "text": "i love when i\u2019m not awake",
+            "classification": 0,
+            "positive_likelihood": 0.953985212071677,
+            "negative_likelihood": 0.04601478792832344
+        },
+        {
+            "text": "being alive seems weird",
+            "classification": 0,
+            "positive_likelihood": 0.9444626246667668,
+            "negative_likelihood": 0.05553737533323423
+        },
+        {
+            "text": "i can only do like half a thing per day",
+            "classification": 1,
+            "positive_likelihood": 0.9856780979297654,
+            "negative_likelihood": 0.014321902070233896
+        },
+        {
+            "text": "maybe i'm not supposed to be ok",
+            "classification": 0,
+            "positive_likelihood": 0.6214675335896824,
+            "negative_likelihood": 0.3785324664103177
+        },
+        {
+            "text": "by relaxed i mean anxious",
+            "classification": 0,
+            "positive_likelihood": 0.9083176729222275,
+            "negative_likelihood": 0.09168232707777188
+        },
+        {
+            "text": "i fear missing out and being included",
+            "classification": 0,
+            "positive_likelihood": 0.7631083203878629,
+            "negative_likelihood": 0.23689167961213767
+        },
+        {
+            "text": "insecurity is forever",
+            "classification": 0,
+            "positive_likelihood": 0.9250394411212763,
+            "negative_likelihood": 0.07496055887872359
+        },
+        {
+            "text": "sorry, i can\u2019t, i\u2019m comparing myself to strangers on the internet",
+            "classification": 1,
+            "positive_likelihood": 0.9999890730437645,
+            "negative_likelihood": 1.0926956234731104e-05
+        },
+        {
+            "text": "why yes, yes i do hate everything, thank you for asking",
+            "classification": 0,
+            "positive_likelihood": 0.9594477147863717,
+            "negative_likelihood": 0.04055228521362745
+        },
+        {
+            "text": "when something appears good it\u2019s usually bad",
+            "classification": 1,
+            "positive_likelihood": 0.9999980146220574,
+            "negative_likelihood": 1.9853779434574814e-06
+        },
+        {
+            "text": "the best advice i can give you is don\u2019t listen to me",
+            "classification": 1,
+            "positive_likelihood": 0.999959845249012,
+            "negative_likelihood": 4.015475098825732e-05
+        },
+        {
+            "text": "let's roleplay you not being an asshole",
+            "classification": 1,
+            "positive_likelihood": 0.9922218711213387,
+            "negative_likelihood": 0.007778128878659487
+        },
+        {
+            "text": "three years ago my friend @petracollins came over and ate a banana at my house and we started writing a thing and it became a thing  https://t.co/j311zq76cW",
+            "classification": 1,
+            "positive_likelihood": 0.999999986534088,
+            "negative_likelihood": 1.3465919112336388e-08
+        },
+        {
+            "text": "if you need me i\u2019ll be worrying about shit beyond my control",
+            "classification": 1,
+            "positive_likelihood": 0.9999995360962866,
+            "negative_likelihood": 4.639037155395711e-07
+        },
+        {
+            "text": "may i interest you in my passive aggressive attempts to be sort of okay",
+            "classification": 1,
+            "positive_likelihood": 0.9999995370441033,
+            "negative_likelihood": 4.6295589591217666e-07
+        },
+        {
+            "text": "coming soon: disappointment",
+            "classification": 0,
+            "positive_likelihood": 0.8330525057934527,
+            "negative_likelihood": 0.16694749420654775
+        },
+        {
+            "text": "hello humans, my book is on sale",
+            "classification": 0,
+            "positive_likelihood": 0.47820168571296273,
+            "negative_likelihood": 0.5217983142870365
+        },
+        {
+            "text": "i\u2019ll give me something to cry about",
+            "classification": 1,
+            "positive_likelihood": 0.9999756797634899,
+            "negative_likelihood": 2.4320236510890578e-05
+        },
+        {
+            "text": "the future is annoying",
+            "classification": 0,
+            "positive_likelihood": 0.31161960749795603,
+            "negative_likelihood": 0.6883803925020434
+        }
+    ],
+    "depressed": true,
+    "switchpoint": 0.8,
+    "classification_switchpoint": 0.96
+}

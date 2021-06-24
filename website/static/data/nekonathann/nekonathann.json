@@ -1,0 +1,616 @@
+{
+    "model_id": 96,
+    "username": "nekonathann",
+    "total_posts": 100,
+    "total_positive": 27,
+    "total_negative": 73,
+    "percent_positive": 0.27,
+    "percent_negative": 0.73,
+    "average_positive_likelihood": 0.3965943286066488,
+    "average_negative_likelihood": 0.6034056713933508,
+    "posts": [
+        {
+            "text": "@edisonparklive @LudwigAhgren @BaboAbe @5uppps @bretmanrock @KarlJacobs_ @sapnap @Dream @GeorgeNotFound Thank you!! Im so glad you noticed! \ud83d\ude2d\ud83e\udde1\ud83e\udde1",
+            "classification": 0,
+            "positive_likelihood": 0.10457163664616462,
+            "negative_likelihood": 0.8954283633538351
+        },
+        {
+            "text": "@falloutchildx Oh?? \ud83e\udd23",
+            "classification": 0,
+            "positive_likelihood": 0.002969057668807773,
+            "negative_likelihood": 0.9970309423311928
+        },
+        {
+            "text": "My receipts:  https://t.co/8mZaaHfWFA",
+            "classification": 0,
+            "positive_likelihood": 0.032353165108450356,
+            "negative_likelihood": 0.967646834891549
+        },
+        {
+            "text": "Dream team \ud83d\udda4\ud83d\udc9a\ud83d\udc99  https://t.co/ryOfozPMhx",
+            "classification": 0,
+            "positive_likelihood": 0.050187754380721386,
+            "negative_likelihood": 0.9498122456192792
+        },
+        {
+            "text": " https://t.co/aNPJllZRwr",
+            "classification": 0,
+            "positive_likelihood": 0.004452647235886639,
+            "negative_likelihood": 0.9955473527641129
+        },
+        {
+            "text": "Close ups:  https://t.co/9eW4TJbFxG",
+            "classification": 0,
+            "positive_likelihood": 0.4837753055285847,
+            "negative_likelihood": 0.5162246944714162
+        },
+        {
+            "text": "9 Male Streamers in E-boy outfits! Hope you guys like it!!  Featuring: @LudwigAhgren @BaboAbe @edisonparklive @5uppps @bretmanrock @KarlJacobs_ @sapnap @Dream @GeorgeNotFound  https://t.co/fpY5qZIqJl",
+            "classification": 1,
+            "positive_likelihood": 0.9997847362755037,
+            "negative_likelihood": 0.00021526372449292926
+        },
+        {
+            "text": "@mattdelano23133 @yojiroji One sided lang po Si yoji nalang po bahala saken ahehe~ DIBA @yojiroji",
+            "classification": 1,
+            "positive_likelihood": 0.9999993640103473,
+            "negative_likelihood": 6.359896573768884e-07
+        },
+        {
+            "text": "@mattdelano23133 @yojiroji Same lang sa sched kuu Equally as hellish \ud83d\ude2b",
+            "classification": 1,
+            "positive_likelihood": 0.999819677260454,
+            "negative_likelihood": 0.00018032273954162245
+        },
+        {
+            "text": "@smolbeanfriend_ Thank youu! \ud83e\udd7a",
+            "classification": 0,
+            "positive_likelihood": 0.0010472459976393486,
+            "negative_likelihood": 0.9989527540023603
+        },
+        {
+            "text": "@itshafu @pokimanelol @StevenSuptic @xChocoBars Thank you so much!! \ud83d\ude3b\ud83d\ude3b",
+            "classification": 0,
+            "positive_likelihood": 0.017450320752268628,
+            "negative_likelihood": 0.9825496792477318
+        },
+        {
+            "text": "@Sugoi_Ash @TinaKitten Thank youu! \ud83d\ude3b\ud83e\udde1\ud83e\udde1",
+            "classification": 0,
+            "positive_likelihood": 0.0010472459976393486,
+            "negative_likelihood": 0.9989527540023603
+        },
+        {
+            "text": "Das all \ud83d\ude3d\u270c SO SORRY IF I MISSED ANYONE YOU LIKED!!",
+            "classification": 1,
+            "positive_likelihood": 0.9807420963766863,
+            "negative_likelihood": 0.019257903623311746
+        },
+        {
+            "text": "@ItzMasayoshi  @iGumdrop  @LudwigAhgren  @bretmanrock  https://t.co/eolt3n4KtV",
+            "classification": 0,
+            "positive_likelihood": 0.004452647235886639,
+            "negative_likelihood": 0.9955473527641129
+        },
+        {
+            "text": "@Jacksepticeye  @brookeab  @Sydeon  @QuarterJade  https://t.co/E8bcF0DGJ0",
+            "classification": 0,
+            "positive_likelihood": 0.004452647235886639,
+            "negative_likelihood": 0.9955473527641129
+        },
+        {
+            "text": "Pewdiepie @yvonnie @MoistCr1TiKaL  @JaidenAnimation  https://t.co/zrAHxrB07L",
+            "classification": 0,
+            "positive_likelihood": 0.004452647235886639,
+            "negative_likelihood": 0.9955473527641129
+        },
+        {
+            "text": "@Kkatamina  @scarra  @starsmitten_  @KarlJacobs_  https://t.co/Jjm3mW4efw",
+            "classification": 0,
+            "positive_likelihood": 0.004452647235886639,
+            "negative_likelihood": 0.9955473527641129
+        },
+        {
+            "text": "@dakotaz  @VeryDumbDog @5uppps  @BaboAbey  https://t.co/cBiMXaVYsk",
+            "classification": 0,
+            "positive_likelihood": 0.004452647235886639,
+            "negative_likelihood": 0.9955473527641129
+        },
+        {
+            "text": "@pokimanelol  @StevenSuptic  @itshafu  @xChocoBars  https://t.co/6ja5bIMCxa",
+            "classification": 0,
+            "positive_likelihood": 0.004452647235886639,
+            "negative_likelihood": 0.9955473527641129
+        },
+        {
+            "text": "@Natsumiii  @brodinplett  @michaelreeves  @peterparkTV  https://t.co/fdVqyoNnBB",
+            "classification": 0,
+            "positive_likelihood": 0.004452647235886639,
+            "negative_likelihood": 0.9955473527641129
+        },
+        {
+            "text": "@fuslie  @LilyPichu  https://t.co/IhPZJrNJoq",
+            "classification": 0,
+            "positive_likelihood": 0.004452647235886639,
+            "negative_likelihood": 0.9955473527641129
+        },
+        {
+            "text": "@TinaKitten  @Sugoi_Ash  https://t.co/NF6pJbZzVg",
+            "classification": 0,
+            "positive_likelihood": 0.004452647235886639,
+            "negative_likelihood": 0.9955473527641129
+        },
+        {
+            "text": "@Sykkuno  @Corpse_Husband  https://t.co/IssfElCPVP",
+            "classification": 0,
+            "positive_likelihood": 0.004452647235886639,
+            "negative_likelihood": 0.9955473527641129
+        },
+        {
+            "text": "Featuring: @Valkyrae  @DisguisedToast  https://t.co/bnZNvhz6pt",
+            "classification": 0,
+            "positive_likelihood": 0.07034550049736314,
+            "negative_likelihood": 0.9296544995026377
+        },
+        {
+            "text": "What's your color? An Among Us animatic Enjoy!! Link:  https://t.co/1XGcTtmp9N  https://t.co/7kmNX9kAS5",
+            "classification": 0,
+            "positive_likelihood": 0.5690726839731461,
+            "negative_likelihood": 0.4309273160268535
+        },
+        {
+            "text": "@_onetony_ OOOHH ITS SO GOOD! Yo I love the sunset feels it hass \ud83d\ude3b Thank you for this!!! \ud83e\udde1\ud83e\udde1",
+            "classification": 0,
+            "positive_likelihood": 0.6588033109382258,
+            "negative_likelihood": 0.3411966890617732
+        },
+        {
+            "text": "@mattdelano23133 kunware naman f2f eh WAHAHA",
+            "classification": 0,
+            "positive_likelihood": 0.24635293543118483,
+            "negative_likelihood": 0.7536470645688171
+        },
+        {
+            "text": "@yojiroji oh yah right right",
+            "classification": 0,
+            "positive_likelihood": 0.005391306480497531,
+            "negative_likelihood": 0.9946086935195014
+        },
+        {
+            "text": "@yojiroji I hope we'll be classmates again huhu",
+            "classification": 0,
+            "positive_likelihood": 0.6024031695620705,
+            "negative_likelihood": 0.3975968304379279
+        },
+        {
+            "text": "@_blackangel08_ \"Entertainment and Multimedia Computing with specialization in Digital Animation\". I see \"animation\", I click \ud83e\udd23",
+            "classification": 1,
+            "positive_likelihood": 0.9999999929380763,
+            "negative_likelihood": 7.061919506364224e-09
+        },
+        {
+            "text": "@chloescanary AYEEE ANGELITEE?? IDK IF IM PROUD TO BE KASE ANG BULLSHT NG SYSTEM HAHAHAHA",
+            "classification": 1,
+            "positive_likelihood": 0.999878750597148,
+            "negative_likelihood": 0.00012124940284649227
+        },
+        {
+            "text": "OUR MONDAY SCHED IS FROM 10:15AM TO 6:50PM. THEY EVEN SNUCK IN A 2 HOUR PE CLASS IN THERE. HELLLLOOOOOOO????",
+            "classification": 1,
+            "positive_likelihood": 0.9999996876688367,
+            "negative_likelihood": 3.123311686584635e-07
+        },
+        {
+            "text": "Just got my college sched and I already wanna end it all \ud83d\ude19\u270c\ufe0f  https://t.co/Lzlt2nylZq",
+            "classification": 1,
+            "positive_likelihood": 0.9997202006793032,
+            "negative_likelihood": 0.0002797993206988686
+        },
+        {
+            "text": "\ud83e\udde1\ud83d\udc40\ud83e\udd23",
+            "classification": 0,
+            "positive_likelihood": 0.0031006185593888676,
+            "negative_likelihood": 0.9968993814406111
+        },
+        {
+            "text": "@starlight_kaen AYEEE Ive been waiting for this! I love it so muchh thank youu! \ud83d\ude3b\ud83e\udde1\ud83e\udde1",
+            "classification": 0,
+            "positive_likelihood": 0.5667274492373215,
+            "negative_likelihood": 0.43327255076267446
+        },
+        {
+            "text": "I gotta spoil WIP Karl cuz he's so adorable LOL  https://t.co/WOMEWIXb2r",
+            "classification": 0,
+            "positive_likelihood": 0.9495902789089988,
+            "negative_likelihood": 0.05040972109100175
+        },
+        {
+            "text": "@Czxxcmae13 OHHH I saw this on Instagramm! I cant believe it took me this long to find it here it twitter too \ud83d\ude2d I love this thank youu! \ud83d\ude3b\ud83e\udde1",
+            "classification": 1,
+            "positive_likelihood": 0.9998137718512221,
+            "negative_likelihood": 0.00018622814878101678
+        },
+        {
+            "text": "Just sketched out some e-boys. Gotta say, they look kinda:  https://t.co/4uf7gv4Z02",
+            "classification": 0,
+            "positive_likelihood": 0.3724081085801357,
+            "negative_likelihood": 0.6275918914198666
+        },
+        {
+            "text": "@Phoenix_Trills I thought the majority would go with suits or somethn LOL",
+            "classification": 1,
+            "positive_likelihood": 0.9996518640803048,
+            "negative_likelihood": 0.0003481359196955661
+        },
+        {
+            "text": "I honestly did NOT expect this result. I don't mind it tho  https://t.co/zxUAjKe9WG",
+            "classification": 1,
+            "positive_likelihood": 0.9998659244371896,
+            "negative_likelihood": 0.0001340755628072719
+        },
+        {
+            "text": "@Sidera_Lu Its not, sadly \ud83d\ude14",
+            "classification": 1,
+            "positive_likelihood": 0.9952732162449134,
+            "negative_likelihood": 0.004726783755086529
+        },
+        {
+            "text": "Little sneak peek of my next vid \ud83d\udc40  https://t.co/jgpZXJi6Sl",
+            "classification": 0,
+            "positive_likelihood": 0.13042033593047672,
+            "negative_likelihood": 0.8695796640695246
+        },
+        {
+            "text": "@Boninbox OOOHH I love this so muchhh! The background looks so good! \ud83d\ude3b Thank you for this!! \ud83e\udde1\ud83e\udde1",
+            "classification": 0,
+            "positive_likelihood": 0.6456487366064912,
+            "negative_likelihood": 0.3543512633935082
+        },
+        {
+            "text": "@creator_ping @ax3lcat @scarra MONA LISCARRAAA  So gooood! \ud83d\ude3b Leonardo who??",
+            "classification": 0,
+            "positive_likelihood": 0.24716386535434395,
+            "negative_likelihood": 0.7528361346456565
+        },
+        {
+            "text": "@diso61124338 @DisguisedToast @scarra @michaelreeves @Sykkuno @Jacksepticeye @Corpse_Husband @brodinplett @peterparkTV @ItzMasayoshi *of",
+            "classification": 0,
+            "positive_likelihood": 0.0031006185593888676,
+            "negative_likelihood": 0.9968993814406111
+        },
+        {
+            "text": "The streamers in question:  https://t.co/YmLjmQpbpG",
+            "classification": 0,
+            "positive_likelihood": 0.840247624174419,
+            "negative_likelihood": 0.15975237582557994
+        },
+        {
+            "text": "Let's do one last 9 streamers fanart, a male edition part 2! So, 9 male streamers in:",
+            "classification": 1,
+            "positive_likelihood": 0.9999999536644176,
+            "negative_likelihood": 4.633557960123308e-08
+        },
+        {
+            "text": "@hp_do_13 @ShortGiraffe93 @alicefayxxo Thank you so much for explaining!! \ud83d\ude2d\ud83e\udde1",
+            "classification": 0,
+            "positive_likelihood": 0.3362781066413991,
+            "negative_likelihood": 0.6637218933586008
+        },
+        {
+            "text": "@ShortGiraffe93 @alicefayxxo @itshafu @LilyPichu @AriaSaki @pokimanelol @TinaKitten @Sugoi_Ash @Kkatamina @Natsumiii @plushyslol As much as I hate the thread happening, I gotta say, I agree with this. Its pretty annoying having comments like \"Why isnt this person included?\" and stuff. So thanks for pointing this out my guy! \ud83e\udde1",
+            "classification": 1,
+            "positive_likelihood": 1.0,
+            "negative_likelihood": 3.286478332743523e-17
+        },
+        {
+            "text": "@Velcria @itshafu @LilyPichu @AriaSaki @pokimanelol @TinaKitten @Sugoi_Ash @Kkatamina @Natsumiii @plushyslol ayee thank youu!",
+            "classification": 0,
+            "positive_likelihood": 0.011486830283008969,
+            "negative_likelihood": 0.9885131697169894
+        },
+        {
+            "text": "@TinaKitten @kyedae I'm so glad you like it!!\ud83d\ude2d\ud83d\ude3b\ud83e\udde1\ud83e\udde1",
+            "classification": 0,
+            "positive_likelihood": 0.02003756163858975,
+            "negative_likelihood": 0.9799624383614105
+        },
+        {
+            "text": "@NIXNOX_1 THIS LOOKS SO GOODD!! I love your style ughhhh Thank you for this!! \ud83d\ude3b\ud83e\udde1\ud83e\udde1",
+            "classification": 0,
+            "positive_likelihood": 0.29156715514022175,
+            "negative_likelihood": 0.7084328448597798
+        },
+        {
+            "text": "@lhoraece OHHH the background matches surprisingly well!! I love it thank youu! \ud83d\ude3b\ud83e\udde1",
+            "classification": 0,
+            "positive_likelihood": 0.012526831995410695,
+            "negative_likelihood": 0.9874731680045845
+        },
+        {
+            "text": "@LilyPichu @itshafu @AriaSaki @pokimanelol @TinaKitten @Sugoi_Ash @Kkatamina @Natsumiii @plushyslol Thank you so muchh!! \ud83d\ude2d\ud83e\udde1\ud83e\udde1",
+            "classification": 0,
+            "positive_likelihood": 0.00948560619750466,
+            "negative_likelihood": 0.9905143938024957
+        },
+        {
+            "text": "@pokimanelol @itshafu @LilyPichu @AriaSaki @TinaKitten @Sugoi_Ash @Kkatamina @Natsumiii @plushyslol I'm preeetty sure a lot of people would like to see you in a suit \ud83d\udc40",
+            "classification": 1,
+            "positive_likelihood": 0.9999952259685281,
+            "negative_likelihood": 4.7740314680686755e-06
+        },
+        {
+            "text": "@Sugoi_Ash @itshafu @LilyPichu @AriaSaki @pokimanelol @TinaKitten @Kkatamina @Natsumiii @plushyslol I'm so glad you do!! \ud83d\ude3b\ud83e\udde1",
+            "classification": 0,
+            "positive_likelihood": 0.0026787410047624384,
+            "negative_likelihood": 0.9973212589952379
+        },
+        {
+            "text": "Gotta have them receipts YA KNOW:  https://t.co/eMyi40yXBp",
+            "classification": 0,
+            "positive_likelihood": 0.07150515860088098,
+            "negative_likelihood": 0.9284948413991202
+        },
+        {
+            "text": "\u2601\ufe0f\ud83d\udc3b\ud83e\uddf8  https://t.co/EWk3dpq8Zm",
+            "classification": 0,
+            "positive_likelihood": 0.004452647235886639,
+            "negative_likelihood": 0.9955473527641129
+        },
+        {
+            "text": "\ud83d\udc08\ud83e\udd55\ud83d\udc9b  https://t.co/gOo1VKQo47",
+            "classification": 0,
+            "positive_likelihood": 0.004452647235886639,
+            "negative_likelihood": 0.9955473527641129
+        },
+        {
+            "text": "\u2764\ud83c\udf38\ud83c\udf1f  https://t.co/0KlYMiDye5",
+            "classification": 0,
+            "positive_likelihood": 0.004452647235886639,
+            "negative_likelihood": 0.9955473527641129
+        },
+        {
+            "text": "You guys voted for it, so I'm here to provide! Here are 9 female streamers in Formal suits, featuring: \u2764 @itshafu         \ud83c\udf38 @LilyPichu  \ud83c\udf1f @AriaSaki      \ud83d\udc08 @pokimanelol  \ud83e\udd55 @TinaKitten   \ud83d\udc9b @Sugoi_Ash  \u2601\ufe0f @Kkatamina  \ud83d\udc3b @Natsumiii  \ud83e\uddf8 @plushyslol  Hope you guys like it! \ud83d\ude3d\ud83e\udde1  https://t.co/XFzhD2JgSN",
+            "classification": 1,
+            "positive_likelihood": 0.9999999988491897,
+            "negative_likelihood": 1.1508075724073533e-09
+        },
+        {
+            "text": "@DESTI_LIX OHMYGOD I'M LOVING THIS SO MUCH!! \ud83e\udd7a\ud83e\udd7a THANK YOU FOR THIS! \ud83d\ude3b\ud83e\udde1\ud83e\udde1",
+            "classification": 1,
+            "positive_likelihood": 0.9993961221378825,
+            "negative_likelihood": 0.0006038778621155012
+        },
+        {
+            "text": "@najielz This looks so good!! I love this thank you! \ud83d\ude3b\ud83e\udde1",
+            "classification": 0,
+            "positive_likelihood": 0.02306863078051713,
+            "negative_likelihood": 0.9769313692194831
+        },
+        {
+            "text": "@Boninbox OHH ITS SO CUTEE I LOVE IT! THANK YOUU! \ud83d\ude3b\ud83e\udde1",
+            "classification": 0,
+            "positive_likelihood": 0.001044421659140292,
+            "negative_likelihood": 0.9989555783408589
+        },
+        {
+            "text": "@sleepyhood1e Ayee I love it! Thank you!!! \ud83d\ude3b\ud83e\udde1",
+            "classification": 0,
+            "positive_likelihood": 0.04110443273766698,
+            "negative_likelihood": 0.9588955672623328
+        },
+        {
+            "text": "@coyelizabeth5 Awww Thank you so much!!! \ud83e\udd7a\ud83e\udd7a Nothing motivates me more than seeing comments like these, thank you! \ud83d\ude2d\ud83e\udde1\ud83e\udde1",
+            "classification": 1,
+            "positive_likelihood": 0.9999986315617659,
+            "negative_likelihood": 1.3684382321393302e-06
+        },
+        {
+            "text": "@CzShad Ayee thank you! \ud83e\udde1",
+            "classification": 0,
+            "positive_likelihood": 0.02855068003885328,
+            "negative_likelihood": 0.9714493199611476
+        },
+        {
+            "text": "@SkipperdeesArt Nice! Gotta go over the limits to improve, you know \ud83d\ude39 I love thiss! Thank you!! \ud83d\ude3b\ud83e\udde1\ud83e\udde1",
+            "classification": 1,
+            "positive_likelihood": 0.9601924354778372,
+            "negative_likelihood": 0.03980756452216501
+        },
+        {
+            "text": "@d0bell Ayee I love it! Thank you \ud83d\ude3b\ud83e\udde1",
+            "classification": 0,
+            "positive_likelihood": 0.04110443273766698,
+            "negative_likelihood": 0.9588955672623328
+        },
+        {
+            "text": "@starlight_kaen OHHHH I'm loving it already! \ud83d\ude3b\ud83d\ude3b So excited for the final piece!!",
+            "classification": 0,
+            "positive_likelihood": 0.6453140243817109,
+            "negative_likelihood": 0.354685975618288
+        },
+        {
+            "text": "@rissssart Ohhhh I love your style!! \ud83d\ude3b Thank you for this!! \ud83e\udde1\ud83e\udde1",
+            "classification": 0,
+            "positive_likelihood": 0.00293111394866911,
+            "negative_likelihood": 0.9970688860513325
+        },
+        {
+            "text": "@monchis2102 You could if you wanna! The deadline's on July 7th anyways! \ud83e\udde1",
+            "classification": 1,
+            "positive_likelihood": 0.9992545603698837,
+            "negative_likelihood": 0.0007454396301159886
+        },
+        {
+            "text": "@CHRSTN0924 @scarra @yvonnie @LilyPichu @brodinplett @pokimanelol @michaelreeves @DisguisedToast OOOOHHHHHH",
+            "classification": 0,
+            "positive_likelihood": 0.1666375658379433,
+            "negative_likelihood": 0.8333624341620576
+        },
+        {
+            "text": "\"Who Broke It?\"  An OfflineTV Animatic featuring: @scarra   @yvonnie  @LilyPichu  @brodinplett  @pokimanelol @michaelreeves   @DisguisedToast   Enjoy! Video:  https://t.co/gWnfPeY5d0  https://t.co/jez6bmvT1Y",
+            "classification": 1,
+            "positive_likelihood": 0.9999961388558527,
+            "negative_likelihood": 3.8611441466178885e-06
+        },
+        {
+            "text": "@WitheringSkull Yoo Im loving the dark aesthetic (intentional or not LOL) Thank you for this!! \ud83d\ude3b\ud83e\udde1",
+            "classification": 1,
+            "positive_likelihood": 0.9918730762095447,
+            "negative_likelihood": 0.00812692379045916
+        },
+        {
+            "text": "@_Sparky_13177 Ayee I love this so much! Thank youu! \ud83d\ude3b\ud83e\udde1\ud83e\udde1",
+            "classification": 0,
+            "positive_likelihood": 0.10195393031169732,
+            "negative_likelihood": 0.8980460696883015
+        },
+        {
+            "text": "More WIP Animatic frames! \ud83e\udde1 Will probably post tomorrow, the next day at most! \ud83d\ude3d  https://t.co/zRWzx7OuXw",
+            "classification": 0,
+            "positive_likelihood": 0.864921275290635,
+            "negative_likelihood": 0.13507872470936716
+        },
+        {
+            "text": "@lazyartistaf AYEEE looks good!! I love it so much thank youu!! \ud83d\ude3b\ud83e\udde1",
+            "classification": 0,
+            "positive_likelihood": 0.6072846354537829,
+            "negative_likelihood": 0.3927153645462159
+        },
+        {
+            "text": "@DigmaRewin Ayee I saw this on instagram!  The style is so adorable \ud83d\ude3b Thank youu! \ud83e\udde1\ud83e\udde1",
+            "classification": 1,
+            "positive_likelihood": 0.9629334471624973,
+            "negative_likelihood": 0.03706655283750344
+        },
+        {
+            "text": "@kitcatsyyy OH WOW I DIDNT EVEN NOTICE THAT I WAS YOUR 100TH FOLLOWER!  Congrats and more followers to come!! \ud83d\ude3b\ud83d\ude3d",
+            "classification": 0,
+            "positive_likelihood": 0.16865020786176615,
+            "negative_likelihood": 0.8313497921382296
+        },
+        {
+            "text": "@kitcatsyyy I'm so glad you like my work! I'm loving your work as well!! You made me look so cute AHHH Thank you!!! \ud83d\ude3b\ud83e\udde1",
+            "classification": 0,
+            "positive_likelihood": 0.470004973625396,
+            "negative_likelihood": 0.5299950263746063
+        },
+        {
+            "text": "@OniiiSenpaiV Jesus I love this so much!!! The shading on this is just \ud83d\ude3b Thank you!! \ud83e\udde1",
+            "classification": 0,
+            "positive_likelihood": 0.04620769535517123,
+            "negative_likelihood": 0.9537923046448298
+        },
+        {
+            "text": "Animatic WIP \u270c  https://t.co/Qa3KAeagmf",
+            "classification": 0,
+            "positive_likelihood": 0.7662262234841342,
+            "negative_likelihood": 0.23377377651586384
+        },
+        {
+            "text": "@sinakahara I LEGIT SQUEALED WHEN I SAW THIS \ud83d\ude2d THIS IS SO ADORABLEE! I LOVE IT THANK YOU! \ud83d\ude3b\ud83e\udde1\ud83e\udde1",
+            "classification": 1,
+            "positive_likelihood": 0.999979299780951,
+            "negative_likelihood": 2.0700219048856512e-05
+        },
+        {
+            "text": "@lockstros Ayyee I saw this on Instagramm!  I love the little amigops in the background \ud83e\udd7a Thank you for thiss! \ud83d\ude3b\ud83e\udde1",
+            "classification": 0,
+            "positive_likelihood": 0.49444835010188637,
+            "negative_likelihood": 0.5055516498981136
+        },
+        {
+            "text": "@Mich_nuav AYEE I love itt!! Thank you!!! \ud83d\ude3b\ud83e\udde1\ud83e\udde1",
+            "classification": 0,
+            "positive_likelihood": 0.10377643074488577,
+            "negative_likelihood": 0.8962235692551149
+        },
+        {
+            "text": "@artlexmonx Ayee I saw this on Instagramm! I love this thank you!! \ud83d\ude3b",
+            "classification": 0,
+            "positive_likelihood": 0.11988212013459057,
+            "negative_likelihood": 0.8801178798654087
+        },
+        {
+            "text": "@Alyson_Wonder I LOOK SO CUTEE! I LOVE IT THANK YOUU! \ud83d\ude3b\ud83e\udde1\ud83e\udde1",
+            "classification": 0,
+            "positive_likelihood": 0.01731361394853727,
+            "negative_likelihood": 0.9826863860514644
+        },
+        {
+            "text": "@smolbeanfriend_ @trashbinlin @Velcria @FaeCupcakes @The_OfficialTFL @akairosu_ @artsy_vii @ChoRatri @eloicmoi @Essi_Dee @FRUIITLINS @jenniethetall @kriiraa @minjimouse_art @mumbo_man @Nimmasion @NinSkeleton @Sevvanto @shystarfall @stillindigo @peachlightful @_rejisen  https://t.co/VJfRcXI64h",
+            "classification": 0,
+            "positive_likelihood": 0.004452647235886639,
+            "negative_likelihood": 0.9955473527641129
+        },
+        {
+            "text": "@Velcria @FaeCupcakes @The_OfficialTFL @akairosu_ @artsy_vii @ChoRatri @eloicmoi @Essi_Dee @FRUIITLINS @jenniethetall @kriiraa @minjimouse_art @mumbo_man @Nimmasion @NinSkeleton @Sevvanto @shystarfall @smolbeanfriend_ @stillindigo @peachlightful @_rejisen Gemini \ud83d\ude44\u270b",
+            "classification": 0,
+            "positive_likelihood": 0.02585679048697319,
+            "negative_likelihood": 0.9741432095130266
+        },
+        {
+            "text": "@Velcria @FaeCupcakes @The_OfficialTFL @akairosu_ @artsy_vii @ChoRatri @eloicmoi @Essi_Dee @FRUIITLINS @jenniethetall @kriiraa @minjimouse_art @mumbo_man @Nimmasion @NinSkeleton @Sevvanto @shystarfall @smolbeanfriend_ @stillindigo @peachlightful @_rejisen I thought we were called The Freaky Leprechauns?",
+            "classification": 1,
+            "positive_likelihood": 0.9668038550659211,
+            "negative_likelihood": 0.033196144934079595
+        },
+        {
+            "text": "@Toul87314662 THIS IS SO ADORABLE! I look so cute just hiding in the flowers \ud83e\udd7a I love this thank youu!! \ud83d\ude3b\ud83e\udde1",
+            "classification": 0,
+            "positive_likelihood": 0.06956331726045377,
+            "negative_likelihood": 0.9304366827395458
+        },
+        {
+            "text": "@FaeCupcakes @The_OfficialTFL @akairosu_ Uhh..",
+            "classification": 0,
+            "positive_likelihood": 0.03363521909262779,
+            "negative_likelihood": 0.9663647809073727
+        },
+        {
+            "text": "@ghostinarose AYEE Nakita ko toh sa Instagramm Ang gandaa!! Thank youuu! \ud83d\ude3b\ud83e\udde1",
+            "classification": 1,
+            "positive_likelihood": 0.9997088631491069,
+            "negative_likelihood": 0.00029113685089077044
+        },
+        {
+            "text": "@chck_mte YO I LOVE THIS SO MUCHH!!! THANK YOUU!! \ud83d\ude3b\ud83e\udde1",
+            "classification": 0,
+            "positive_likelihood": 0.011401836801728099,
+            "negative_likelihood": 0.9885981631982723
+        },
+        {
+            "text": "@zukoishot Ayee I love it!! Thank youu!! \ud83d\ude3b\ud83e\udde1",
+            "classification": 0,
+            "positive_likelihood": 0.016666319343704043,
+            "negative_likelihood": 0.9833336806562986
+        },
+        {
+            "text": "Twice: I'm drunk in youu~ Me: I'M DRUNK IN YOU TOO, TWICE \ud83d\ude2d\u270a #AlcoholFree  https://t.co/6moT8XVjZ5",
+            "classification": 0,
+            "positive_likelihood": 0.48371588133827526,
+            "negative_likelihood": 0.5162841186617245
+        },
+        {
+            "text": "@ArunaCelene Thank youu!! Have a nice dayy! \ud83e\udd7a\ud83d\ude3b\ud83e\udde1\ud83e\udde1",
+            "classification": 0,
+            "positive_likelihood": 0.0015601765450802274,
+            "negative_likelihood": 0.9984398234549203
+        },
+        {
+            "text": "@ArunaCelene The deadline's until July 7, so you still good! And I LOVE this pixel art so muchh!! \ud83d\ude3b Thank you!! \ud83e\udde1",
+            "classification": 1,
+            "positive_likelihood": 0.9987099879157594,
+            "negative_likelihood": 0.0012900120842429313
+        },
+        {
+            "text": "@moetplayz @Valkyrae YAH I KNOW LOL  IM JUST KIDDING \ud83e\udd23",
+            "classification": 0,
+            "positive_likelihood": 0.026683707858435605,
+            "negative_likelihood": 0.9733162921415647
+        }
+    ],
+    "depressed": false,
+    "switchpoint": 0.8,
+    "classification_switchpoint": 0.96
+}

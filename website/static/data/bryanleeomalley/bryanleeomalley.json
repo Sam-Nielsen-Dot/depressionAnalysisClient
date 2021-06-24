@@ -1,0 +1,616 @@
+{
+    "model_id": 96,
+    "username": "bryanleeomalley",
+    "total_posts": 100,
+    "total_positive": 56,
+    "total_negative": 44,
+    "percent_positive": 0.56,
+    "percent_negative": 0.44,
+    "average_positive_likelihood": 0.7156437177721451,
+    "average_negative_likelihood": 0.284356282227855,
+    "posts": [
+        {
+            "text": "gonna streaAM  https://t.co/solNb10jCN looking at some old artbooks and chatting",
+            "classification": 0,
+            "positive_likelihood": 0.6531907035165788,
+            "negative_likelihood": 0.34680929648342085
+        },
+        {
+            "text": "EXCLUSIVE My next book will no longer come out before elden ring",
+            "classification": 0,
+            "positive_likelihood": 0.45123140494060915,
+            "negative_likelihood": 0.5487685950593914
+        },
+        {
+            "text": "gonna look at some artbooks and do some chatting in a moment  https://t.co/solNb10jCN",
+            "classification": 0,
+            "positive_likelihood": 0.7106925105722037,
+            "negative_likelihood": 0.28930748942779366
+        },
+        {
+            "text": "@MaximePilgrim @PlayRenegade Formidable!!",
+            "classification": 0,
+            "positive_likelihood": 0.12497708329744865,
+            "negative_likelihood": 0.8750229167025518
+        },
+        {
+            "text": "@OnTheDownLoTho I liked it before it was cool",
+            "classification": 0,
+            "positive_likelihood": 0.00714284943357598,
+            "negative_likelihood": 0.9928571505664232
+        },
+        {
+            "text": "@massiverabbit It varies depending on the situation. If it's from the books, I have more control, if it's from the movie/game I have less control. Thank you for asking.",
+            "classification": 1,
+            "positive_likelihood": 0.9999989835036962,
+            "negative_likelihood": 1.0164963021186387e-06
+        },
+        {
+            "text": "@MaximePilgrim I hope so too, this is just the beginning!",
+            "classification": 0,
+            "positive_likelihood": 0.0877162179408227,
+            "negative_likelihood": 0.912283782059178
+        },
+        {
+            "text": "SCOTT PILGRIM PUZZLES??? \ud83d\udc40",
+            "classification": 1,
+            "positive_likelihood": 0.981919284629751,
+            "negative_likelihood": 0.018080715370250817
+        },
+        {
+            "text": "@pk_kenzie See unfortunately my dunk tweet blew up and will become viral marketing for them just by spreading awareness. So by complaining I just made money for them. The house always wins, kenzie",
+            "classification": 1,
+            "positive_likelihood": 0.9999999999883571,
+            "negative_likelihood": 1.1644487189635463e-11
+        },
+        {
+            "text": "What the f*ck is an amazon luna",
+            "classification": 0,
+            "positive_likelihood": 0.31615621077261913,
+            "negative_likelihood": 0.6838437892273814
+        },
+        {
+            "text": "Heartbreaking loss. Miura was a legend. He was a big inspiration for me. There's nothing else like BERSERK.",
+            "classification": 1,
+            "positive_likelihood": 0.9999999987187137,
+            "negative_likelihood": 1.2812904841952102e-09
+        },
+        {
+            "text": "@peterberkman \u2764\ufe0f\ud83d\udc94\u2764\ufe0f",
+            "classification": 0,
+            "positive_likelihood": 0.0031006185593888676,
+            "negative_likelihood": 0.9968993814406111
+        },
+        {
+            "text": "@108 @q_dork I've gotten that music in my head every day for like 30 years",
+            "classification": 1,
+            "positive_likelihood": 0.999999652355147,
+            "negative_likelihood": 3.4764485299363416e-07
+        },
+        {
+            "text": " https://t.co/solNb10jCN if you can believe it, i'm about to stream some drawing and chatting",
+            "classification": 0,
+            "positive_likelihood": 0.9505719538615882,
+            "negative_likelihood": 0.04942804613841379
+        },
+        {
+            "text": "@bryanLeeO_Clips @MrPilgrims That's not me",
+            "classification": 0,
+            "positive_likelihood": 0.005458130255008721,
+            "negative_likelihood": 0.9945418697449916
+        },
+        {
+            "text": "@MrPilgrims That's me",
+            "classification": 0,
+            "positive_likelihood": 0.005458130255008721,
+            "negative_likelihood": 0.9945418697449916
+        },
+        {
+            "text": "@bdgrabinski @edgarwright the audiences for those movies are now dead, while the audience for Scott Pilgrim had not yet been born",
+            "classification": 1,
+            "positive_likelihood": 0.9988320422060891,
+            "negative_likelihood": 0.0011679577939128184
+        },
+        {
+            "text": "@edgarwright @AMCTheatres Yes that's Ramona Flowers",
+            "classification": 0,
+            "positive_likelihood": 0.12991056835202536,
+            "negative_likelihood": 0.8700894316479726
+        },
+        {
+            "text": "@NatOrSomething Wasn't involved. Advised them not to do it",
+            "classification": 0,
+            "positive_likelihood": 0.9369776702819671,
+            "negative_likelihood": 0.06302232971803318
+        },
+        {
+            "text": "@muffpuff89 i had nothing to do with it, thank you for asking",
+            "classification": 0,
+            "positive_likelihood": 0.37910614387789665,
+            "negative_likelihood": 0.6208938561221032
+        },
+        {
+            "text": "This is sick lol",
+            "classification": 0,
+            "positive_likelihood": 0.014068214165990538,
+            "negative_likelihood": 0.9859317858340083
+        },
+        {
+            "text": "Thanks for coming to the stream, we looked at some stuff, you can watch the video on my twitch if you missed it",
+            "classification": 1,
+            "positive_likelihood": 0.9719087561263544,
+            "negative_likelihood": 0.0280912438736477
+        },
+        {
+            "text": "going live  https://t.co/solNb10jCN",
+            "classification": 0,
+            "positive_likelihood": 0.15702285791584614,
+            "negative_likelihood": 0.8429771420841536
+        },
+        {
+            "text": "in honor of the scott pilgrim movie rerelease i'm gonna do a stream about an hour from now with some show &amp; tell and some chatting!! first stream in months! one hour from now!  https://t.co/solNb10jCN",
+            "classification": 1,
+            "positive_likelihood": 0.9999999885139612,
+            "negative_likelihood": 1.1486033574499043e-08
+        },
+        {
+            "text": "@samhumphries It's pronounced \"mo AY be oose\" btw",
+            "classification": 1,
+            "positive_likelihood": 0.9999385966635266,
+            "negative_likelihood": 6.140333647515427e-05
+        },
+        {
+            "text": "EDGAR KEEPS HINTING THAT I'M WORKING ON SOME KIND OF SCOTT PILGRIM PROJECT BUT I HAVE NO IDEA WHAT HE MEANS \ud83d\udc40",
+            "classification": 1,
+            "positive_likelihood": 0.9999999943084086,
+            "negative_likelihood": 5.691586738557884e-09
+        },
+        {
+            "text": "I hope people who get to see the Scott Pilgrim movie in theaters this week have a good time. I'm sorry it had to happen in this less-accessible way, due to circumstances, but I'm glad it's happening at all.  https://t.co/oxOXGNTC68",
+            "classification": 1,
+            "positive_likelihood": 0.9999999999965031,
+            "negative_likelihood": 3.4970536918353792e-12
+        },
+        {
+            "text": "Marketing is my passion",
+            "classification": 0,
+            "positive_likelihood": 0.0795573852308046,
+            "negative_likelihood": 0.920442614769196
+        },
+        {
+            "text": "this year... bread makes u fat... all over again. They should have let me do the trailer",
+            "classification": 0,
+            "positive_likelihood": 0.6485073327656946,
+            "negative_likelihood": 0.3514926672343039
+        },
+        {
+            "text": "you guys ready for epic of the of epicness",
+            "classification": 0,
+            "positive_likelihood": 0.31439721946032545,
+            "negative_likelihood": 0.6856027805396719
+        },
+        {
+            "text": "i made this t-shirt for the scott pilgrim vs the world 10th anniversary. preorder here  https://t.co/MgnXpXg9Hb  https://t.co/BCZqbtwlqC",
+            "classification": 1,
+            "positive_likelihood": 0.9999973278026696,
+            "negative_likelihood": 2.6721973292513955e-06
+        },
+        {
+            "text": "Going live in about 30 minutes for a Scott Pilgrim anniversary chat with @edgarwright @evilhag @likemark @satyabhabha @BrandonJRouth @ellenwongster and several more that either aren't on twitter or I'm forgetting to include them sorry!!!!! @UniversalPics  https://t.co/o64Fy32ObY",
+            "classification": 1,
+            "positive_likelihood": 0.9999999980540902,
+            "negative_likelihood": 1.9459134746704494e-09
+        },
+        {
+            "text": "@ARTofCOOP @costa_kout @derekmballard @perpetua Wait that's how directing works? Shit I need to start directing",
+            "classification": 1,
+            "positive_likelihood": 0.9997608001534948,
+            "negative_likelihood": 0.00023919984650572727
+        },
+        {
+            "text": "@peterberkman duh doy",
+            "classification": 0,
+            "positive_likelihood": 0.18594364957326145,
+            "negative_likelihood": 0.8140563504267394
+        },
+        {
+            "text": "@edgarwright The cut to \"Don't. Rated R\" slays me every time.",
+            "classification": 1,
+            "positive_likelihood": 0.9999999921746552,
+            "negative_likelihood": 7.825342537526728e-09
+        },
+        {
+            "text": "@pk_kenzie @edgarwright @DolbyCinema Lucky",
+            "classification": 0,
+            "positive_likelihood": 0.008765714210311613,
+            "negative_likelihood": 0.9912342857896891
+        },
+        {
+            "text": "I haven't had time to stream the past few weeks. I'm sorry to my loyal viewers. You see, before I became a streamer and social media mogul I had this whole other full-time career making comics",
+            "classification": 1,
+            "positive_likelihood": 1.0,
+            "negative_likelihood": 2.3979053304475685e-19
+        },
+        {
+            "text": "@bdgrabinski HAPPILY RED &amp; CHROME cut when",
+            "classification": 0,
+            "positive_likelihood": 0.22962341717393545,
+            "negative_likelihood": 0.7703765828260654
+        },
+        {
+            "text": "\"Who picks up dog pee with their bare hands?\" Me and my fans, baby",
+            "classification": 1,
+            "positive_likelihood": 0.9999993167242889,
+            "negative_likelihood": 6.832757064781158e-07
+        },
+        {
+            "text": "We did it y'all. We picked up my dog's poop. Also the pee. Picked up the pee. Couldn't have done it without you",
+            "classification": 1,
+            "positive_likelihood": 0.9999975799538997,
+            "negative_likelihood": 2.420046094502203e-06
+        },
+        {
+            "text": "@pk_kenzie I should live stream picking up this massive amount of dog poop on the floor",
+            "classification": 1,
+            "positive_likelihood": 0.999994041649646,
+            "negative_likelihood": 5.958350353018061e-06
+        },
+        {
+            "text": "my dog took a shit on the floor this morning, you think my outsized impact on pop culture will pick it up for me?",
+            "classification": 1,
+            "positive_likelihood": 0.9999999942807491,
+            "negative_likelihood": 5.719256794171858e-09
+        },
+        {
+            "text": "@ARTofCOOP Maggie Cheung in IRMA VEP",
+            "classification": 0,
+            "positive_likelihood": 0.8731013416300578,
+            "negative_likelihood": 0.1268986583699435
+        },
+        {
+            "text": "@perpetua what about vampire, man",
+            "classification": 0,
+            "positive_likelihood": 0.00735296749842482,
+            "negative_likelihood": 0.9926470325015746
+        },
+        {
+            "text": "@bdgrabinski It means first timer and know that but I have never used this word in my life",
+            "classification": 1,
+            "positive_likelihood": 0.9999868015893314,
+            "negative_likelihood": 1.3198410670566234e-05
+        },
+        {
+            "text": "@bdgrabinski I've been calling you a tyro for years",
+            "classification": 0,
+            "positive_likelihood": 0.7390048634437427,
+            "negative_likelihood": 0.26099513655625767
+        },
+        {
+            "text": "siamese dream is a really good album",
+            "classification": 0,
+            "positive_likelihood": 0.8181320953440193,
+            "negative_likelihood": 0.18186790465597863
+        },
+        {
+            "text": "getting on stream now, continuing Persona 4 Golden  https://t.co/solNb10jCN",
+            "classification": 1,
+            "positive_likelihood": 0.9990893817429876,
+            "negative_likelihood": 0.0009106182570112175
+        },
+        {
+            "text": "@FemboyCrypto @lesliehung No thank you",
+            "classification": 0,
+            "positive_likelihood": 0.0026444316179470365,
+            "negative_likelihood": 0.9973555683820527
+        },
+        {
+            "text": "@argkitsune Chie is super bubbly and Kim is grumpy af...",
+            "classification": 1,
+            "positive_likelihood": 0.9996959711476302,
+            "negative_likelihood": 0.000304028852369881
+        },
+        {
+            "text": "@hardynski @KimChi_Chic I'm also Korean... have you ever heard of kimchi  https://t.co/9x1UzDydOt",
+            "classification": 1,
+            "positive_likelihood": 0.995884488401482,
+            "negative_likelihood": 0.004115511598516255
+        },
+        {
+            "text": "Cool small town girls from the mid to late 2000s who wear a similar style of jacket",
+            "classification": 1,
+            "positive_likelihood": 0.9999773154815959,
+            "negative_likelihood": 2.2684518407203017e-05
+        },
+        {
+            "text": "@hardynski @KimChi_Chic I know this",
+            "classification": 0,
+            "positive_likelihood": 0.023358842160914012,
+            "negative_likelihood": 0.976641157839086
+        },
+        {
+            "text": "Playing Persona 4 for the first time after 12 years of people telling me Kim Pine looks like Chie",
+            "classification": 1,
+            "positive_likelihood": 0.999999999513301,
+            "negative_likelihood": 4.866995267578258e-10
+        },
+        {
+            "text": "@hermanos we just started persona 4, feels like your type of thing, having fun",
+            "classification": 1,
+            "positive_likelihood": 0.9999999226023316,
+            "negative_likelihood": 7.73976656926365e-08
+        },
+        {
+            "text": "@hermanos whole thing gets a big yikes from me",
+            "classification": 1,
+            "positive_likelihood": 0.9998782044769096,
+            "negative_likelihood": 0.00012179552309294904
+        },
+        {
+            "text": "ok persona 4 golden day 2 here we go  https://t.co/solNb10jCN",
+            "classification": 1,
+            "positive_likelihood": 0.9998480394654737,
+            "negative_likelihood": 0.00015196053452616243
+        },
+        {
+            "text": "streaming update: there's a thunderstorm warning and if it seems like bad weather i won't stream. if it seems fine i will probably start in the next hour or so(?) with Persona 4 Golden, day 2",
+            "classification": 1,
+            "positive_likelihood": 0.9999999999949468,
+            "negative_likelihood": 5.0493187695804175e-12
+        },
+        {
+            "text": "@yard___sard You trimmed your bangs",
+            "classification": 0,
+            "positive_likelihood": 0.010088452066749085,
+            "negative_likelihood": 0.9899115479332502
+        },
+        {
+            "text": "@GrandPOOBear I was watching you for a while today and wondering if I could hack it in the big roleplay city... I'd probably just stand in the corner",
+            "classification": 1,
+            "positive_likelihood": 0.9999985701222165,
+            "negative_likelihood": 1.429877785627405e-06
+        },
+        {
+            "text": "i'm about to play Persona 4 golden for the first time because it's literally the only thing i can get working  https://t.co/solNb10jCN",
+            "classification": 1,
+            "positive_likelihood": 0.9999998624408368,
+            "negative_likelihood": 1.375591690185864e-07
+        },
+        {
+            "text": "@bryanLeeO_Clips It's fake...",
+            "classification": 0,
+            "positive_likelihood": 0.14019500374566007,
+            "negative_likelihood": 0.8598049962543387
+        },
+        {
+            "text": "i was going to stream today but instead i spent hours making a sonic the hedgehog 2006 cringe post. also as usual i can't get any games to work",
+            "classification": 1,
+            "positive_likelihood": 0.9999999999997538,
+            "negative_likelihood": 2.4187219508171364e-13
+        },
+        {
+            "text": "i think the sonic / elise relationship is so cringe that it warps space and time and becomes something beautiful and spiritual",
+            "classification": 1,
+            "positive_likelihood": 0.9999999997071137,
+            "negative_likelihood": 2.9288653041609946e-10
+        },
+        {
+            "text": "@OnTheDownLoTho this u?",
+            "classification": 0,
+            "positive_likelihood": 0.0016831495521902517,
+            "negative_likelihood": 0.9983168504478095
+        },
+        {
+            "text": "my friend was telling me about this game and i watched a playthrough last night and i was screaming at the top of my lungs the entire time and then i had to draw this. I spent hours drawing this",
+            "classification": 1,
+            "positive_likelihood": 0.9999999999355008,
+            "negative_likelihood": 6.450557671458605e-11
+        },
+        {
+            "text": "sonic the hedgehog (2006)  https://t.co/6NhnPX77CD",
+            "classification": 0,
+            "positive_likelihood": 0.4798906085656264,
+            "negative_likelihood": 0.5201093914343746
+        },
+        {
+            "text": "@samhumphries I don't remember concerts. What were they",
+            "classification": 0,
+            "positive_likelihood": 0.10035997684067878,
+            "negative_likelihood": 0.8996400231593216
+        },
+        {
+            "text": "hear me out my pitch is Bridgerton but in the role of the sexy duke it's Sonic  https://t.co/G57PTkKh5A",
+            "classification": 0,
+            "positive_likelihood": 0.8209191157871334,
+            "negative_likelihood": 0.17908088421286494
+        },
+        {
+            "text": "@cczar2012 I'm only streaming pc right now and it's ps4 exclusive \ud83d\ude1e",
+            "classification": 1,
+            "positive_likelihood": 0.9999941443932809,
+            "negative_likelihood": 5.855606715173148e-06
+        },
+        {
+            "text": "@JoeBobomb This is amazing, gonna download for sure",
+            "classification": 0,
+            "positive_likelihood": 0.032051468321456895,
+            "negative_likelihood": 0.967948531678541
+        },
+        {
+            "text": "@CUmeorah I'm using a ps4 controller",
+            "classification": 0,
+            "positive_likelihood": 0.9168783791462837,
+            "negative_likelihood": 0.08312162085371845
+        },
+        {
+            "text": "@JoeBobomb God I used to love space channel 5 but is it on any modern systems?",
+            "classification": 1,
+            "positive_likelihood": 0.9995043185755572,
+            "negative_likelihood": 0.0004956814244412408
+        },
+        {
+            "text": "@KarlGerm I'm so reluctant to start speedrunning it because I know I'll get obsessed with it. But I'll probably hit you up eventually",
+            "classification": 1,
+            "positive_likelihood": 0.9999994903213012,
+            "negative_likelihood": 5.096786954509766e-07
+        },
+        {
+            "text": "@bryanLeeO_Clips I'm gonna download it... also gonna finish downloading river city girls and maybe I'll install undertale",
+            "classification": 0,
+            "positive_likelihood": 0.9572198281032724,
+            "negative_likelihood": 0.04278017189672282
+        },
+        {
+            "text": "@tipsybiologist hmm I never played p4, that's actually a good idea",
+            "classification": 1,
+            "positive_likelihood": 0.9988146858302771,
+            "negative_likelihood": 0.0011853141697209428
+        },
+        {
+            "text": "I played a bunch of Hades on stream and I love it but it is hard on the hands/wrists. very esports",
+            "classification": 1,
+            "positive_likelihood": 0.9999925193309958,
+            "negative_likelihood": 7.480669006994678e-06
+        },
+        {
+            "text": "the only game I love right now is Dark Souls (2011) but I need to love some other games if I'm gonna keep playing games on twitch... so what games should I try? Real answers and joke answers only please",
+            "classification": 1,
+            "positive_likelihood": 0.9999999999967101,
+            "negative_likelihood": 3.2892234018379694e-12
+        },
+        {
+            "text": "last few days to preorder Scott Pilgrim Miniatures the World direct from @onipress... been working on this for years... pls... just want 2 make cool things... for u... *dies*  https://t.co/2zQzLsfpWv",
+            "classification": 1,
+            "positive_likelihood": 0.999999999926084,
+            "negative_likelihood": 7.39225070327551e-11
+        },
+        {
+            "text": "@handsome_pal Don't 4get 2 hydrate handsome",
+            "classification": 0,
+            "positive_likelihood": 0.8147094197820781,
+            "negative_likelihood": 0.18529058021791994
+        },
+        {
+            "text": "@peterberkman Welcome to the 90s pete  No actually I bought the original vinyl a few years ago because I do love the alternate tracklist",
+            "classification": 1,
+            "positive_likelihood": 0.999923729773369,
+            "negative_likelihood": 7.627022662742038e-05
+        },
+        {
+            "text": "saturday night streaming  https://t.co/solNb10jCN",
+            "classification": 0,
+            "positive_likelihood": 0.03311488146003303,
+            "negative_likelihood": 0.9668851185399673
+        },
+        {
+            "text": "Actually this is crazy because they didn't have most of these versions on streaming and idk where the CD went, so it's the first time I'm hearing these tracks in a while and I love them (New Order puts out a lot of different versions of songs)",
+            "classification": 1,
+            "positive_likelihood": 0.9999999997974894,
+            "negative_likelihood": 2.0251348447608445e-10
+        },
+        {
+            "text": "@mattywatts it might be missing some of the tapes, i stuck to mostly the ones i remembered, but i fully did all the research and cross referenced different versions of the tapes... yeah... pandemic...",
+            "classification": 1,
+            "positive_likelihood": 0.9999999999941785,
+            "negative_likelihood": 5.825674010090766e-12
+        },
+        {
+            "text": "@kouotsu I had a bon jovi cassette that i think i got at a garage sale...",
+            "classification": 0,
+            "positive_likelihood": 0.9581471524974094,
+            "negative_likelihood": 0.04185284750259124
+        },
+        {
+            "text": "@mattywatts I MADE A PLAYLIST OF THOSE TOO!  https://t.co/bcpOj2H2od",
+            "classification": 0,
+            "positive_likelihood": 0.022747234112133374,
+            "negative_likelihood": 0.9772527658878672
+        },
+        {
+            "text": "Uncool Fridays",
+            "classification": 0,
+            "positive_likelihood": 0.08956170672994766,
+            "negative_likelihood": 0.9104382932700513
+        },
+        {
+            "text": "i didn't get into hip hop until my 20s. i didn't listen to pink floyd until i was like 36",
+            "classification": 1,
+            "positive_likelihood": 0.9998552452975913,
+            "negative_likelihood": 0.00014475470240771202
+        },
+        {
+            "text": "14 year olds in 2021 are like \"I've listened to every great album ever recorded and they were alright\"",
+            "classification": 1,
+            "positive_likelihood": 0.9999999999999212,
+            "negative_likelihood": 8.223131463475157e-14
+        },
+        {
+            "text": "until i was like 14 all i ever listened to was weird al yankovic and oldies compilations from the gas station",
+            "classification": 1,
+            "positive_likelihood": 0.9999999480343214,
+            "negative_likelihood": 5.196567869634368e-08
+        },
+        {
+            "text": "actually they added it  https://t.co/mmBZ2OdbbQ",
+            "classification": 0,
+            "positive_likelihood": 0.9071314811851966,
+            "negative_likelihood": 0.09286851881480318
+        },
+        {
+            "text": "@DoNotCareAtAll i'm not bragging about it... i just made this playlist so i could play these things for myself",
+            "classification": 1,
+            "positive_likelihood": 0.9995129255437833,
+            "negative_likelihood": 0.0004870744562156872
+        },
+        {
+            "text": "@Bentotron yeah it was the first track. and I just searched spotify again and apparently they added it! So i put it on the end of the playlist",
+            "classification": 1,
+            "positive_likelihood": 0.9997237642247693,
+            "negative_likelihood": 0.00027623577523633834
+        },
+        {
+            "text": "@kimsokol It might be on youtube... I really need to upload them to bandcamp or something, sorry for my negligence",
+            "classification": 1,
+            "positive_likelihood": 0.9981400303409735,
+            "negative_likelihood": 0.0018599696590283548
+        },
+        {
+            "text": "there was this one New Order CD i listened to a lot but it's not on spotify",
+            "classification": 0,
+            "positive_likelihood": 0.4744101042727649,
+            "negative_likelihood": 0.5255898957272364
+        },
+        {
+            "text": " https://t.co/cCr56NXP8I \"CDs i listened to a lot in high school\" playlist. when i was in high school if you wanted to listen to music you had to have the CD in your house",
+            "classification": 1,
+            "positive_likelihood": 0.9999999769787896,
+            "negative_likelihood": 2.302120621242447e-08
+        },
+        {
+            "text": "early stream today cause i have to go to the vet again later  https://t.co/solNb10jCN gonna play a game",
+            "classification": 1,
+            "positive_likelihood": 0.9999328148051742,
+            "negative_likelihood": 6.718519482723018e-05
+        },
+        {
+            "text": " https://t.co/gP70OYZKjL if you're just hyped to have tiny Scott Pilgrim figures, preorder the full set here. add them to your D&amp;D campaign or make up your own damn game",
+            "classification": 1,
+            "positive_likelihood": 0.9999999942644372,
+            "negative_likelihood": 5.735560610489345e-09
+        },
+        {
+            "text": " https://t.co/quuFCkj725 If you missed our Kickstarter or if you were born yesterday or whatever, the new Scott Pilgrim miniature game is now available for preorder from @OniPress @PlayRenegade Game created by @EricaBouyouris",
+            "classification": 1,
+            "positive_likelihood": 0.9999999984745565,
+            "negative_likelihood": 1.5254436642569407e-09
+        },
+        {
+            "text": "@bryanLeeO_Clips Once I get my improved dual-camera desk setup working, we can look at nintendo powers on stream sometime",
+            "classification": 1,
+            "positive_likelihood": 0.9999947966088993,
+            "negative_likelihood": 5.203391098883018e-06
+        }
+    ],
+    "depressed": false,
+    "switchpoint": 0.8,
+    "classification_switchpoint": 0.96
+}

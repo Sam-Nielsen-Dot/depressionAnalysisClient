@@ -1,0 +1,12 @@
+model_id,96
+username,nekonathann
+total_posts,100
+total_positive,27
+total_negative,73
+percent_positive,0.27
+percent_negative,0.73
+average_positive_likelihood,0.3965943286066488
+average_negative_likelihood,0.6034056713933508
+depressed,False
+switchpoint,0.8
+classification_switchpoint,0.96

@@ -1,0 +1,616 @@
+{
+    "model_id": 96,
+    "username": "Depressed1278",
+    "total_posts": 100,
+    "total_positive": 66,
+    "total_negative": 34,
+    "percent_positive": 0.66,
+    "percent_negative": 0.34,
+    "average_positive_likelihood": 0.7861587723966846,
+    "average_negative_likelihood": 0.21384122760331478,
+    "posts": [
+        {
+            "text": "Everything seems to be exhausting me, no matter how much I sleep or how much coffee I drink or how long I lie down, something inside me seems to have given up. My soul is tired.",
+            "classification": 1,
+            "positive_likelihood": 0.999999999999665,
+            "negative_likelihood": 3.3062336939260936e-13
+        },
+        {
+            "text": "Why is keeping myself alive so hard?",
+            "classification": 0,
+            "positive_likelihood": 0.9434980058928558,
+            "negative_likelihood": 0.05650199410714466
+        },
+        {
+            "text": "@DieselDoc00747 My dm\u2019s are open for you.",
+            "classification": 1,
+            "positive_likelihood": 0.987789664248369,
+            "negative_likelihood": 0.01221033575163106
+        },
+        {
+            "text": "My head is currently a horrible place to be.",
+            "classification": 1,
+            "positive_likelihood": 0.9928191177640968,
+            "negative_likelihood": 0.007180882235901787
+        },
+        {
+            "text": "@Suicida95988955 The love of a stranger can be the thing that keeps you here. If you want to talk my dm\u2019s are open. \u2764\ufe0f",
+            "classification": 1,
+            "positive_likelihood": 0.9999999999509311,
+            "negative_likelihood": 4.9066283158153726e-11
+        },
+        {
+            "text": "I disappear sometime. It\u2019s my thing.",
+            "classification": 1,
+            "positive_likelihood": 0.9999614604682003,
+            "negative_likelihood": 3.853953180012793e-05
+        },
+        {
+            "text": "I\u2019ve been going trough the motions learning how to pretend that everything is perfect.  I\u2019ve been sinking in an ocean drowning but I\u2019m silent. Yet everyone think I\u2019m afloat.  - Hayd",
+            "classification": 1,
+            "positive_likelihood": 1.0,
+            "negative_likelihood": 1.9365396706441204e-19
+        },
+        {
+            "text": "I\u2019m just wondering why I wasn\u2019t good enough for you.",
+            "classification": 1,
+            "positive_likelihood": 0.9995223794833902,
+            "negative_likelihood": 0.0004776205166073936
+        },
+        {
+            "text": "@lily08038800 Are you okay?",
+            "classification": 0,
+            "positive_likelihood": 0.017546446347582314,
+            "negative_likelihood": 0.9824535536524175
+        },
+        {
+            "text": "@WhereIsHe__ You shouldn\u2019t. Dm if you need to talk.\u2764\ufe0f",
+            "classification": 1,
+            "positive_likelihood": 0.9868589675957476,
+            "negative_likelihood": 0.013141032404251674
+        },
+        {
+            "text": "Sometimes the worst place you can be is in your own head.",
+            "classification": 1,
+            "positive_likelihood": 0.9912110085710505,
+            "negative_likelihood": 0.008788991428949844
+        },
+        {
+            "text": "I just don\u2019t know what to do anymore.",
+            "classification": 1,
+            "positive_likelihood": 0.9997528618765528,
+            "negative_likelihood": 0.00024713812344784883
+        },
+        {
+            "text": "@maddiegotcash Dm me please",
+            "classification": 0,
+            "positive_likelihood": 0.023667208545065602,
+            "negative_likelihood": 0.9763327914549341
+        },
+        {
+            "text": "I feel so emotionally drained. It\u2019s just to much.",
+            "classification": 1,
+            "positive_likelihood": 0.9999999787654977,
+            "negative_likelihood": 2.1234500279146048e-08
+        },
+        {
+            "text": "@izzywaltersss Talk to me. My dm\u2019s are open.",
+            "classification": 1,
+            "positive_likelihood": 0.9990564830218978,
+            "negative_likelihood": 0.00094351697810043
+        },
+        {
+            "text": "I feel so useless.",
+            "classification": 0,
+            "positive_likelihood": 0.8707477451114563,
+            "negative_likelihood": 0.12925225488854317
+        },
+        {
+            "text": "Sometimes the worst place you can be is your own head.",
+            "classification": 1,
+            "positive_likelihood": 0.9912110085710505,
+            "negative_likelihood": 0.008788991428949844
+        },
+        {
+            "text": "My only reason to get out of bed is now gone.",
+            "classification": 0,
+            "positive_likelihood": 0.7192879629333578,
+            "negative_likelihood": 0.2807120370666429
+        },
+        {
+            "text": "I\u2019m still not enough and I don\u2019t think I will ever be. And I\u2019m so sorry for that.",
+            "classification": 1,
+            "positive_likelihood": 0.9999976881866142,
+            "negative_likelihood": 2.311813385815045e-06
+        },
+        {
+            "text": "I felt so much. That I started feeling nothing.",
+            "classification": 1,
+            "positive_likelihood": 0.999842206653127,
+            "negative_likelihood": 0.00015779334687212202
+        },
+        {
+            "text": "I\u2019m trying my best to be okay. But everyday it is so hard.",
+            "classification": 1,
+            "positive_likelihood": 0.9999986629551677,
+            "negative_likelihood": 1.3370448311669857e-06
+        },
+        {
+            "text": "I hope the new year goes better for you.\u2764\ufe0f",
+            "classification": 0,
+            "positive_likelihood": 0.6041986484699795,
+            "negative_likelihood": 0.39580135153002116
+        },
+        {
+            "text": "It hurts knowing you tried doing your best and it still wasn\u2019t good enough.",
+            "classification": 1,
+            "positive_likelihood": 0.9999999762000071,
+            "negative_likelihood": 2.3799991032884865e-08
+        },
+        {
+            "text": "I wanna feel again.",
+            "classification": 0,
+            "positive_likelihood": 0.5373963892781506,
+            "negative_likelihood": 0.462603610721849
+        },
+        {
+            "text": "Sometimes, happy memories hurt the most.",
+            "classification": 1,
+            "positive_likelihood": 0.9947528579577706,
+            "negative_likelihood": 0.005247142042229453
+        },
+        {
+            "text": "My thoughts are destroying me. I tried not to think but the silence was a killer too.",
+            "classification": 1,
+            "positive_likelihood": 0.9999581890926015,
+            "negative_likelihood": 4.181090739454704e-05
+        },
+        {
+            "text": "Sometimes  Something hurts so much it stops hurting at all.",
+            "classification": 1,
+            "positive_likelihood": 0.9996728342693983,
+            "negative_likelihood": 0.00032716573060046573
+        },
+        {
+            "text": "I care. I always care. That is my problem.",
+            "classification": 0,
+            "positive_likelihood": 0.9217850894476854,
+            "negative_likelihood": 0.07821491055231479
+        },
+        {
+            "text": "I wil never let someone so close again. Never.",
+            "classification": 1,
+            "positive_likelihood": 0.993653087431257,
+            "negative_likelihood": 0.006346912568740556
+        },
+        {
+            "text": "I am so so sorry.",
+            "classification": 0,
+            "positive_likelihood": 0.015575857869921435,
+            "negative_likelihood": 0.9844241421300781
+        },
+        {
+            "text": "I feel so empty inside.",
+            "classification": 1,
+            "positive_likelihood": 0.9866189238848501,
+            "negative_likelihood": 0.013381076115148374
+        },
+        {
+            "text": "I don\u2019t want to lose you.",
+            "classification": 1,
+            "positive_likelihood": 0.9996451156080893,
+            "negative_likelihood": 0.00035488439191046613
+        },
+        {
+            "text": "Here I am again. Feeling like I\u2019m not wanted. Feeling like I\u2019m worthless. And even though I\u2019m alive, feeling dead.",
+            "classification": 1,
+            "positive_likelihood": 0.9999999999998423,
+            "negative_likelihood": 1.5632753961115813e-13
+        },
+        {
+            "text": "Cry away the pain at night. So I can fake a smile all day.",
+            "classification": 1,
+            "positive_likelihood": 0.9999800959342644,
+            "negative_likelihood": 1.990406573433047e-05
+        },
+        {
+            "text": "I feel like I\u2019m losing myself over and over again.",
+            "classification": 1,
+            "positive_likelihood": 0.9999744535571813,
+            "negative_likelihood": 2.5546442817999322e-05
+        },
+        {
+            "text": "I said it was fine.  But I never said it didn\u2019t hurt.",
+            "classification": 1,
+            "positive_likelihood": 0.9999967872185459,
+            "negative_likelihood": 3.2127814533320487e-06
+        },
+        {
+            "text": "I\u2019m sorry that I let you down.",
+            "classification": 1,
+            "positive_likelihood": 0.9946646064129143,
+            "negative_likelihood": 0.005335393587086381
+        },
+        {
+            "text": "The voices screaming loud as hell.",
+            "classification": 1,
+            "positive_likelihood": 0.9657325660235138,
+            "negative_likelihood": 0.034267433976485774
+        },
+        {
+            "text": "@deprexed_quotes Check your dm\u2019s",
+            "classification": 0,
+            "positive_likelihood": 0.9338726242632229,
+            "negative_likelihood": 0.06612737573677661
+        },
+        {
+            "text": "@deprexed_quotes Do you want to talk about it.",
+            "classification": 0,
+            "positive_likelihood": 0.3256378798597525,
+            "negative_likelihood": 0.6743621201402477
+        },
+        {
+            "text": "No one knows how much I cry everyday.",
+            "classification": 1,
+            "positive_likelihood": 0.998781637818655,
+            "negative_likelihood": 0.0012183621813442612
+        },
+        {
+            "text": "I want to see you smile. I know that means I'll have to leave.",
+            "classification": 1,
+            "positive_likelihood": 0.9976838452126174,
+            "negative_likelihood": 0.002316154787380013
+        },
+        {
+            "text": "I never thought I would lose you.",
+            "classification": 1,
+            "positive_likelihood": 0.9937420825882751,
+            "negative_likelihood": 0.006257917411725966
+        },
+        {
+            "text": "I\u2019m a mess.",
+            "classification": 1,
+            "positive_likelihood": 0.9902607055240196,
+            "negative_likelihood": 0.009739294475980636
+        },
+        {
+            "text": "I love you.\u2764\ufe0f",
+            "classification": 0,
+            "positive_likelihood": 0.0045159835033109635,
+            "negative_likelihood": 0.9954840164966892
+        },
+        {
+            "text": "Nothing lasts forever.",
+            "classification": 0,
+            "positive_likelihood": 0.6777023676707343,
+            "negative_likelihood": 0.3222976323292659
+        },
+        {
+            "text": "Waking up is the hardest thing to do.",
+            "classification": 0,
+            "positive_likelihood": 0.7486755925714904,
+            "negative_likelihood": 0.25132440742851025
+        },
+        {
+            "text": "Nobody loves me. I\u2019m broken.",
+            "classification": 1,
+            "positive_likelihood": 0.9998641451023957,
+            "negative_likelihood": 0.00013585489760254424
+        },
+        {
+            "text": "The night are the worst.",
+            "classification": 0,
+            "positive_likelihood": 0.08203319938393132,
+            "negative_likelihood": 0.9179668006160688
+        },
+        {
+            "text": "@ghostmaysuffer I  really do love you\u2764\ufe0f",
+            "classification": 0,
+            "positive_likelihood": 0.03213297936525687,
+            "negative_likelihood": 0.9678670206347436
+        },
+        {
+            "text": "Remember that I love you. \u2764\ufe0f",
+            "classification": 0,
+            "positive_likelihood": 0.9494456570795934,
+            "negative_likelihood": 0.0505543429204073
+        },
+        {
+            "text": "And that was the moment. The moment I recognised, We aren\u2019t friends anymore. We are just two people who talk sometimes. Nothing more,  Nothing less.",
+            "classification": 1,
+            "positive_likelihood": 0.9999999999999409,
+            "negative_likelihood": 5.4940510489608376e-14
+        },
+        {
+            "text": "People go but how they left is what stays with you forever.",
+            "classification": 1,
+            "positive_likelihood": 0.9891364418900535,
+            "negative_likelihood": 0.010863558109946629
+        },
+        {
+            "text": "I am done.  I don\u2019t know if life is worth this much trouble .",
+            "classification": 1,
+            "positive_likelihood": 0.9999992230870962,
+            "negative_likelihood": 7.769129039661291e-07
+        },
+        {
+            "text": "I\u2019m struggling to hide how damaged I\u2019ve become.",
+            "classification": 1,
+            "positive_likelihood": 0.9999999888663624,
+            "negative_likelihood": 1.1133635307599545e-08
+        },
+        {
+            "text": "I\u2019m in love with this song if you want to listen to it. The song is called jack and Jill and is sang by @Aaron_Doh",
+            "classification": 1,
+            "positive_likelihood": 0.9985668000243146,
+            "negative_likelihood": 0.001433199975685759
+        },
+        {
+            "text": "Why do you love me?  I'm such a fuckin' mess Why do you need me?  My live is such a wreck And lovin' me ain't easy,  I'm broken in the head It's like nobody sees me,  I'm better off just dead.  @Aaron_Doh",
+            "classification": 1,
+            "positive_likelihood": 0.999999999995597,
+            "negative_likelihood": 4.4034659253403554e-12
+        },
+        {
+            "text": "@Alice1605201187 A lot. But don\u2019t want to bother you. \u2764\ufe0f",
+            "classification": 1,
+            "positive_likelihood": 0.9999998846802283,
+            "negative_likelihood": 1.153197714228323e-07
+        },
+        {
+            "text": "I fuck everything up.",
+            "classification": 0,
+            "positive_likelihood": 0.7304526557359692,
+            "negative_likelihood": 0.26954734426403054
+        },
+        {
+            "text": "Sorry.",
+            "classification": 0,
+            "positive_likelihood": 0.015575857869921435,
+            "negative_likelihood": 0.9844241421300781
+        },
+        {
+            "text": "I\u2019m more broken than you think.",
+            "classification": 1,
+            "positive_likelihood": 0.9993991180664893,
+            "negative_likelihood": 0.0006008819335092091
+        },
+        {
+            "text": "Happy new year my love.\u2764\ufe0f  https://t.co/EeYxQDa45K",
+            "classification": 0,
+            "positive_likelihood": 0.3070862918896273,
+            "negative_likelihood": 0.6929137081103733
+        },
+        {
+            "text": "I just feel so empty sometimes and it\u2019s so exhausting to feel nothing and everything at the same time.",
+            "classification": 1,
+            "positive_likelihood": 0.9999999999789156,
+            "negative_likelihood": 2.1082054704832354e-11
+        },
+        {
+            "text": "@AidenAmes4 @DEPRESS07340285 Okay dm me",
+            "classification": 0,
+            "positive_likelihood": 0.027998326818566607,
+            "negative_likelihood": 0.9720016731814327
+        },
+        {
+            "text": "@DEPRESS07340285 I\u2019m here I\u2019ve you want to talk\u2764\ufe0f",
+            "classification": 1,
+            "positive_likelihood": 0.9893222709924532,
+            "negative_likelihood": 0.010677729007547026
+        },
+        {
+            "text": "@HttpM00d I really am here for you",
+            "classification": 0,
+            "positive_likelihood": 0.022255614716005147,
+            "negative_likelihood": 0.9777443852839948
+        },
+        {
+            "text": "I let you in. I let you fucking in and you completely destroyed me.",
+            "classification": 1,
+            "positive_likelihood": 0.9988929702697713,
+            "negative_likelihood": 0.0011070297302274463
+        },
+        {
+            "text": "I swear I\u2019m trying my best but I just can\u2019t breathe anymore and every second I\u2019m alive I feel like I\u2019m drowning.",
+            "classification": 1,
+            "positive_likelihood": 0.9999999999999951,
+            "negative_likelihood": 4.1329314868989235e-15
+        },
+        {
+            "text": "Remember that I love you\u2764\ufe0f",
+            "classification": 0,
+            "positive_likelihood": 0.04006042223481022,
+            "negative_likelihood": 0.9599395777651898
+        },
+        {
+            "text": "@DepressionG How are you feeling now",
+            "classification": 0,
+            "positive_likelihood": 0.06309481479236012,
+            "negative_likelihood": 0.9369051852076398
+        },
+        {
+            "text": "@DepressionG Are you okay?",
+            "classification": 0,
+            "positive_likelihood": 0.017546446347582314,
+            "negative_likelihood": 0.9824535536524175
+        },
+        {
+            "text": "Who am I fighting for ?",
+            "classification": 0,
+            "positive_likelihood": 0.06544372880679315,
+            "negative_likelihood": 0.934556271193207
+        },
+        {
+            "text": "I don\u2019t know why I am even trying everybody hates me.",
+            "classification": 1,
+            "positive_likelihood": 0.9999992119877879,
+            "negative_likelihood": 7.880122111953807e-07
+        },
+        {
+            "text": "I feel so lonely. Why am I even here .",
+            "classification": 1,
+            "positive_likelihood": 0.9896326966417762,
+            "negative_likelihood": 0.01036730335822315
+        },
+        {
+            "text": "Maybe he left because he saw me the way I see myself",
+            "classification": 0,
+            "positive_likelihood": 0.9457009529284169,
+            "negative_likelihood": 0.054299047071582555
+        },
+        {
+            "text": "Does anyone else find it crazy that you can be so depressed and no one around you notices? Not your parents, your siblings, your friends, your teachers, your classmates, no one. Like you can literally be on the verge of tears, drowning, and everyone is oblivious.",
+            "classification": 1,
+            "positive_likelihood": 1.0,
+            "negative_likelihood": 1.587713106756288e-25
+        },
+        {
+            "text": "I have more scars than friends.",
+            "classification": 0,
+            "positive_likelihood": 0.5410929895486151,
+            "negative_likelihood": 0.4589070104513847
+        },
+        {
+            "text": "Confession: I\u2019m suicidal as hell, I\u2019m a monster, I hurt everyone I love, my anxiety is through the roof, I don\u2019t deserve to be here, I\u2019m sorry.",
+            "classification": 1,
+            "positive_likelihood": 1.0,
+            "negative_likelihood": 8.299357560917014e-17
+        },
+        {
+            "text": "I still hate myself  I still think about dying  and some nights I still am hurting myself  but I swear I\u2019m trying my hardest to be ok",
+            "classification": 1,
+            "positive_likelihood": 0.9999999999903911,
+            "negative_likelihood": 9.606998166143443e-12
+        },
+        {
+            "text": "Watch this video from @DWadeTheChrist1 it is really Nice \u2764\ufe0f    https://t.co/0dqIsBllJg",
+            "classification": 1,
+            "positive_likelihood": 0.9830138673128077,
+            "negative_likelihood": 0.01698613268719163
+        },
+        {
+            "text": " https://t.co/jubxAxT793",
+            "classification": 0,
+            "positive_likelihood": 0.004452647235886639,
+            "negative_likelihood": 0.9955473527641129
+        },
+        {
+            "text": " https://t.co/NmGDsPbUJe",
+            "classification": 0,
+            "positive_likelihood": 0.004452647235886639,
+            "negative_likelihood": 0.9955473527641129
+        },
+        {
+            "text": "She\u2019s always \u2018ok\u2019. But when she\u2019s alone  The demons come out to play  Thrashing and screaming  Internally. Outwardly she was even smiling face.  A smile on her lips Scars on her hips, But she is always \u2018ok\u2019",
+            "classification": 1,
+            "positive_likelihood": 1.0,
+            "negative_likelihood": 3.0358901689875793e-19
+        },
+        {
+            "text": "@DepressionG I really am there for you my dm\u2019s are open. \ud83d\udc95",
+            "classification": 1,
+            "positive_likelihood": 0.9999842366576616,
+            "negative_likelihood": 1.5763342337160242e-05
+        },
+        {
+            "text": "I\u2019m not worth anyone\u2019s time",
+            "classification": 1,
+            "positive_likelihood": 0.9998757802383108,
+            "negative_likelihood": 0.00012421976168826716
+        },
+        {
+            "text": "I just want the pain to end",
+            "classification": 1,
+            "positive_likelihood": 0.9771843564520252,
+            "negative_likelihood": 0.022815643547975283
+        },
+        {
+            "text": "@IsaKrupe Love you\u2764\ufe0f",
+            "classification": 0,
+            "positive_likelihood": 0.0045159835033109635,
+            "negative_likelihood": 0.9954840164966892
+        },
+        {
+            "text": "Faking a smile is so much easier than explaining why are you sad.",
+            "classification": 1,
+            "positive_likelihood": 0.99997230777667,
+            "negative_likelihood": 2.7692223331046373e-05
+        },
+        {
+            "text": "Your eyes, they used to shine so bright.",
+            "classification": 0,
+            "positive_likelihood": 0.18590994866697175,
+            "negative_likelihood": 0.8140900513330264
+        },
+        {
+            "text": "@IsaKrupe The struggle",
+            "classification": 0,
+            "positive_likelihood": 0.5593008703460556,
+            "negative_likelihood": 0.44069912965394475
+        },
+        {
+            "text": "@jesslovepizzaa I\u2019m always here for you \u2764\ufe0f",
+            "classification": 1,
+            "positive_likelihood": 0.9999758211177037,
+            "negative_likelihood": 2.417888229661236e-05
+        },
+        {
+            "text": "\u201cDon\u2019t worry about me, I\u2019ll be fine. Just don\u2019t look into my eyes.\u201d",
+            "classification": 1,
+            "positive_likelihood": 0.9999999966345414,
+            "negative_likelihood": 3.3654617986022544e-09
+        },
+        {
+            "text": "@BrittanyCavana2 @NathanGurdMusic @RoadTripTV @HRVY @HarriOMusic @ChloeRoseOFCL @aaronmelloul @badzachx @beechloren02 @whydontwe0427 I\u2019m here for you\u2764\ufe0f",
+            "classification": 0,
+            "positive_likelihood": 0.8865080457202398,
+            "negative_likelihood": 0.11349195427975964
+        },
+        {
+            "text": "@BrittanyCavana2 @badzachx @HRVY @HarriOMusic @ChloeRoseOFCL @beechloren02 @RoadTripTV @aaronmelloul @NathanGurdMusic @ShawnMendes I\u2019m always here for you babe",
+            "classification": 1,
+            "positive_likelihood": 0.9991978784234461,
+            "negative_likelihood": 0.0008021215765548434
+        },
+        {
+            "text": "@BrittanyCavana2 @HRVY @RoadTripTV @jack_stuyle @badzachx @ChloeRoseOFCL @NathanGurdMusic @aaronmelloul @HarriOMusic @beechloren02 I care about you and I\u2019ve there is something wrong you can always dm me. You are beautiful and you deserve to live.\u2764\ufe0f",
+            "classification": 1,
+            "positive_likelihood": 0.9999999302606556,
+            "negative_likelihood": 6.973934798039035e-08
+        },
+        {
+            "text": "I tell everybody to be strong when I am the weakest person on this world",
+            "classification": 1,
+            "positive_likelihood": 0.9999775584037737,
+            "negative_likelihood": 2.24415962295527e-05
+        },
+        {
+            "text": "I wonder how many people have seen my cuts and just never said anything",
+            "classification": 1,
+            "positive_likelihood": 0.9999989241022307,
+            "negative_likelihood": 1.0758977699060536e-06
+        },
+        {
+            "text": "@BrittanyCavana2 @HarriOMusic @HRVY @NathanGurdMusic @badzachx @aaronmelloul @beechloren02 @ChloeRoseOFCL @RoadTripTV @Auryn14641770 Please don\u2019t say that. I don\u2019t hate you.\u2764\ufe0f",
+            "classification": 1,
+            "positive_likelihood": 0.999861090614531,
+            "negative_likelihood": 0.0001389093854696476
+        },
+        {
+            "text": "They keep saying it gets better, but when? It\u2019s not changing anything for me. I\u2019m worthless.",
+            "classification": 1,
+            "positive_likelihood": 0.9999999982289414,
+            "negative_likelihood": 1.7710596225383895e-09
+        },
+        {
+            "text": "@spilldatee You shouldn\u2019t \u2764\ufe0f",
+            "classification": 1,
+            "positive_likelihood": 0.9997156070360702,
+            "negative_likelihood": 0.00028439296392835143
+        }
+    ],
+    "depressed": false,
+    "switchpoint": 0.8,
+    "classification_switchpoint": 0.96
+}

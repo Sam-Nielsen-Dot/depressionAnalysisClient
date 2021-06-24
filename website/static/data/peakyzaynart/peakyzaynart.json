@@ -1,0 +1,1312 @@
+{
+    "model_id": 96,
+    "username": "peakyzaynart",
+    "total_posts": 216,
+    "total_positive": 132,
+    "total_negative": 84,
+    "percent_positive": 0.6111111111111112,
+    "percent_negative": 0.3888888888888889,
+    "average_positive_likelihood": 0.7223651707509089,
+    "average_negative_likelihood": 0.27763482924909,
+    "posts": [
+        {
+            "text": "If you can, you must.  Let's beat this, Victoria.  https://t.co/GvZKCE5jpS",
+            "classification": 0,
+            "positive_likelihood": 0.41065252042282696,
+            "negative_likelihood": 0.5893474795771743
+        },
+        {
+            "text": "This week I had another round of scans and a meeting with my care team at the Alfred and got some good news.  I've been given the all clear to return to work soon.   On Monday 28 June I'll be back to work \u2013 and back to getting things done. I can't wait.  https://t.co/6hDeGqvii2",
+            "classification": 1,
+            "positive_likelihood": 0.9999999999999803,
+            "negative_likelihood": 9.629358874305459e-15
+        },
+        {
+            "text": "And on a personal note, I'm sorry I can't be there with everyone but I'm so grateful to @JamesMerlinoMP for his leadership. I have more scans and a meeting with my medical team next week. I'll let you know how that goes and exactly when I'll be back on deck later this month.",
+            "classification": 1,
+            "positive_likelihood": 0.9999999999999803,
+            "negative_likelihood": 2.8590843139529256e-14
+        },
+        {
+            "text": "Be proud of what you've achieved and be proud of our state too.  Keep fighting, Victoria.",
+            "classification": 1,
+            "positive_likelihood": 0.9999857724914395,
+            "negative_likelihood": 1.4227508563044773e-05
+        },
+        {
+            "text": "But please know that every individual effort you made today, and everything you'll do tomorrow and every day after will save lives.  Record tests, record vaccinations, record fight - we're doing this to protect our communities, our state and the entire country.",
+            "classification": 1,
+            "positive_likelihood": 1.0,
+            "negative_likelihood": 1.614605127347978e-19
+        },
+        {
+            "text": "Just because we've had to do this before, doesn't mean it's easy to do again. Some of us will be tired. Some stressed. Some sick to the back teeth of this pandemic. Maybe a mix of all three.",
+            "classification": 1,
+            "positive_likelihood": 0.9999999999950158,
+            "negative_likelihood": 4.976301798892762e-12
+        },
+        {
+            "text": "I won't talk about how hard this is, or why it matters so much. You all know that.  But I did want to send a message to Victorians facing another week off work, away from school, or with the kids at home:",
+            "classification": 1,
+            "positive_likelihood": 0.9999999999998423,
+            "negative_likelihood": 1.4890162220327017e-13
+        },
+        {
+            "text": "Above all, thanks to all those Victorians who have sent messages of love and support \u2013 it means a lot.   I\u2019m being regularly reviewed by my medical team and I\u2019ll provide more updates in the weeks ahead.  https://t.co/lSQATqHTjX",
+            "classification": 1,
+            "positive_likelihood": 0.9999999999991036,
+            "negative_likelihood": 8.940732250182904e-13
+        },
+        {
+            "text": "I want to thank @JamesMerlinoMP and all the team who are working so hard and doing so well. And, of course another big thank you to the health professionals who are looking after me.",
+            "classification": 1,
+            "positive_likelihood": 0.999999920862321,
+            "negative_likelihood": 7.913767250077553e-08
+        },
+        {
+            "text": "You only get one chance to properly recover from serious injuries and while it\u2019s frustrating to be away from work, there is no alternative.  We just have to wait until the ribs and spinal fracture have properly healed.",
+            "classification": 1,
+            "positive_likelihood": 1.0,
+            "negative_likelihood": 1.0527363275655696e-16
+        },
+        {
+            "text": "My physio is also going well, but it\u2019s clear I won\u2019t be able to return to work before the State Budget in May. The good news is my team of specialists are confident that I will be back in June.",
+            "classification": 1,
+            "positive_likelihood": 1.0,
+            "negative_likelihood": 9.345501396926268e-15
+        },
+        {
+            "text": "Just wanted to give everyone an update. Thanks to the best of care, I\u2019m making slow and steady progress.  A couple of weeks ago when I started daily walks, I could only manage about 15 minutes \u2013 now I\u2019m out for almost an hour.",
+            "classification": 1,
+            "positive_likelihood": 1.0,
+            "negative_likelihood": 3.7164967974669205e-22
+        },
+        {
+            "text": "I\u2019m making steady progress and being diligent with my physio exercises. Also building up my walking and am up to about 18 minutes on my daily walk.  If you\u2019re giving, receiving, hunting, decorating or eating eggs today \u2013 enjoy.",
+            "classification": 1,
+            "positive_likelihood": 1.0,
+            "negative_likelihood": 9.986183821087026e-21
+        },
+        {
+            "text": "Happy Easter everyone.  Thanks for all your messages of support over the past couple of weeks. They\u2019ve really helped to keep my spirits up in what\u2019s been a pretty painful time.  https://t.co/XitUCj2xV3",
+            "classification": 1,
+            "positive_likelihood": 0.9999999999999901,
+            "negative_likelihood": 1.1214766510619496e-14
+        },
+        {
+            "text": "Thanks to the kids from the Alfred Child Care Centre for your beautiful artwork and messages.  They're going straight to the pool room.  https://t.co/drbkWiFfN0",
+            "classification": 1,
+            "positive_likelihood": 0.9999760911225163,
+            "negative_likelihood": 2.390887748014575e-05
+        },
+        {
+            "text": "Good to get out of ICU and settled in new digs.  Thanks for all your messages and well wishes. It really means a lot.  https://t.co/ujdm3WJ3a9",
+            "classification": 1,
+            "positive_likelihood": 0.9999948418087947,
+            "negative_likelihood": 5.158191203845511e-06
+        },
+        {
+            "text": "The good news is no surgery for now  \u2013 but the doctors tell me recovery and rehab is still going to be a very long journey.  Our thanks to the entire team at @AlfredHealth for their care and professionalism.   Like all our health professionals, they are the best of Victoria.  https://t.co/8PFxKsUJrh",
+            "classification": 1,
+            "positive_likelihood": 1.0,
+            "negative_likelihood": 4.449872899862261e-19
+        },
+        {
+            "text": "Heartfelt thanks to the entire team at @AlfredHealth for taking such good care of me.  We\u2019re so very grateful.  https://t.co/kSCDP9qKXn",
+            "classification": 1,
+            "positive_likelihood": 0.9999999572439853,
+            "negative_likelihood": 4.275601595827336e-08
+        },
+        {
+            "text": "I hope to be able to provide another update later this week. @JamesMerlinoMP will serve as Acting Premier while I recover over the next few days. For now, we'd like to ask that our family's privacy is respected.",
+            "classification": 1,
+            "positive_likelihood": 0.9999999999997242,
+            "negative_likelihood": 2.7070995014144807e-13
+        },
+        {
+            "text": "Our warm and sincere thanks go to the many family members, friends, colleagues and Victorians who have sent messages of love and support throughout the day. Thank you.",
+            "classification": 1,
+            "positive_likelihood": 0.999999996725257,
+            "negative_likelihood": 3.274744160962911e-09
+        },
+        {
+            "text": "Cath, the kids and I are extremely grateful to the @AmbulanceVic paramedics who showed such care and kindness to our family this morning, as we are to the clinicians who have taken care of me today.",
+            "classification": 1,
+            "positive_likelihood": 0.9999999999983058,
+            "negative_likelihood": 1.6922020649002602e-12
+        },
+        {
+            "text": "Early this morning, I was admitted to hospital after slipping and falling on wet and slippery stairs. A CT scan has revealed several broken ribs and vertebrae damage, and subsequent medical advice has recommended I remain in intensive care for the next few days.",
+            "classification": 1,
+            "positive_likelihood": 1.0,
+            "negative_likelihood": 3.7045034116397313e-23
+        },
+        {
+            "text": "It's a small change \u2013 but it'll make a huge difference to Victorians living with mental illness + to our emergency services workers.  It was a pleasure to share the good news this morning with the team at North Melbourne Ambulance Station \u2013 and thank them for their important work",
+            "classification": 1,
+            "positive_likelihood": 1.0,
+            "negative_likelihood": 3.40690811930996e-20
+        },
+        {
+            "text": "Mental health crises are health issues \u2013 and we need to respond to them like we would a heart attack or a broken leg.   That's why when you ring 000 for a mental health issue \u2013 you should get an ambulance, not a police car.   And that's exactly what we'll deliver.  https://t.co/MFGyRcY8U2",
+            "classification": 1,
+            "positive_likelihood": 1.0,
+            "negative_likelihood": 2.2082100674583978e-23
+        },
+        {
+            "text": "It's thousands of medical and nursing staff running the testing sites - rain, hail or shine.  Hundreds of lab technicians and pathologists processing results - at all hours of the day and night.   Massive thanks to every one of you \u2013 and a special shout out to all those nostrils.",
+            "classification": 1,
+            "positive_likelihood": 1.0,
+            "negative_likelihood": 2.8990561262590934e-19
+        },
+        {
+            "text": "Today we've recorded more than 5 million coronavirus tests in Victoria.   If you break that down, and think of everyone involved:",
+            "classification": 1,
+            "positive_likelihood": 0.9999653445721002,
+            "negative_likelihood": 3.4655427898828e-05
+        },
+        {
+            "text": "The only reason we're here today is because of Al, Amelia and every Victorian who shared their story, made a submission to the Royal Commission and pushed for change to happen.   And we owe it to every single one of them to get this right.  https://t.co/qBRnBKx0Bi",
+            "classification": 1,
+            "positive_likelihood": 1.0,
+            "negative_likelihood": 8.188247484381974e-16
+        },
+        {
+            "text": "Few people \u2013 if any \u2013 have shaped the Australian music industry more than Michael Gudinski. His was the beating heart of the Victorian scene, and his irrepressible spark entertained our state for 50 years. Treasured friend, Victorian legend \u2013 and a legacy that will last forever.  https://t.co/xcRVYc6dZk",
+            "classification": 1,
+            "positive_likelihood": 1.0,
+            "negative_likelihood": 1.2831039891822868e-18
+        },
+        {
+            "text": "An accessible version of this information will be available shortly here:  https://t.co/nzC7pCJQws",
+            "classification": 1,
+            "positive_likelihood": 0.9986114835548492,
+            "negative_likelihood": 0.0013885164451511803
+        },
+        {
+            "text": "Here's some good news for your Friday.  Because of the efforts and hard work of so many Victorians \u2013 we're able to ease some restrictions from 11.59pm tonight.   Here's a summary of what's changing:  https://t.co/WA18NiQUPH",
+            "classification": 1,
+            "positive_likelihood": 0.9999999999837865,
+            "negative_likelihood": 1.6211940727786652e-11
+        },
+        {
+            "text": "Took a look at some of our newest (smallest) TBMs today.  They aren't as big as the others, but these 40-tonne machines are just as important.  They'll soon dig six-storeys deep to relocate 1.8km of underground pipes for our states biggest ever road project, The North East Link.  https://t.co/0j66W99Pkm",
+            "classification": 1,
+            "positive_likelihood": 0.9999999999998621,
+            "negative_likelihood": 1.3088089961023252e-13
+        },
+        {
+            "text": "Summary of what's changing from 11:59pm tonight:  https://t.co/gZUDPYrXpG",
+            "classification": 1,
+            "positive_likelihood": 0.9936583488719145,
+            "negative_likelihood": 0.006341651128086703
+        },
+        {
+            "text": "Statement on Victoria's Circuit Breaker Action and Easing of Restrictions  https://t.co/z9TKnaMSlZ",
+            "classification": 1,
+            "positive_likelihood": 0.9977812474867935,
+            "negative_likelihood": 0.002218752513203253
+        },
+        {
+            "text": "Summary of what's changing from 11:59pm tonight:  https://t.co/NZ6UROJTbi",
+            "classification": 1,
+            "positive_likelihood": 0.9936583488719145,
+            "negative_likelihood": 0.006341651128086703
+        },
+        {
+            "text": "Statement on Victoria's Circuit Breaker Action  https://t.co/XXwfjxU2Bb",
+            "classification": 0,
+            "positive_likelihood": 0.9073467312052821,
+            "negative_likelihood": 0.0926532687947214
+        },
+        {
+            "text": "Good news, but this isn\u2019t over yet.   Let\u2019s keep going Victoria. And remember - if you feel sick, get tested.",
+            "classification": 1,
+            "positive_likelihood": 0.9999999973024106,
+            "negative_likelihood": 2.6975862193578193e-09
+        },
+        {
+            "text": "So to every student heading back today - first years, final years and everyone in between:   Know that you've got this. We're proud of you. Good luck.",
+            "classification": 1,
+            "positive_likelihood": 0.9999999946653212,
+            "negative_likelihood": 5.334682737020422e-09
+        },
+        {
+            "text": "It's a big day for the one million students going back to school today.  And a big day for their parents too.   There'll be plenty of nerves, but plenty to be excited about.   And to all the parents of preppies saying goodbye - I promise it does get easier.",
+            "classification": 1,
+            "positive_likelihood": 0.9999999999902975,
+            "negative_likelihood": 9.701757364830747e-12
+        },
+        {
+            "text": "Two things are clear:  1. Now that a politician has made the Hottest 100, it is no longer hot. Sorry about that. 2. It's officially time to get on the beers.  Congrats @mashdnkutcher - I look forward to our next \u2018collaboration\u2019.",
+            "classification": 1,
+            "positive_likelihood": 0.9999999999998818,
+            "negative_likelihood": 1.1557708032893093e-13
+        },
+        {
+            "text": "I don't want to give this person's disgraceful, bigoted views any oxygen.  But when others insist on rewarding them with this country's highest honour \u2013 I think it's worth saying again:  Grand Slam wins don't give you some right to spew hatred and create division.  Nothing does.",
+            "classification": 1,
+            "positive_likelihood": 1.0,
+            "negative_likelihood": 5.560724941266683e-26
+        },
+        {
+            "text": "This year, when @NealeDaniher leads his Big Freeze army from Federation Square, over William Barak bridge and down to the MCG \u2013 it'll be just a little bit more special.  Because the last stretch of that journey will be undertaken on Daniher's Way.  https://t.co/wFbasRN0aN",
+            "classification": 1,
+            "positive_likelihood": 1.0,
+            "negative_likelihood": 1.9835593299832457e-17
+        },
+        {
+            "text": "More than 72,000 tests in 72 hours.  That\u2019s a mammoth effort \u2013 and one Victorians should be very proud of.  Thanks as always to the healthcare workers collecting thousands of swabs, and to the labs pulling out all the stops to get them processed.  We couldn't do it without you.",
+            "classification": 1,
+            "positive_likelihood": 1.0,
+            "negative_likelihood": 1.0178430720148445e-24
+        },
+        {
+            "text": "Because every single one of us has a big part to play in ensuring we beat this cluster.  Victorians have worked too hard, and sacrificed too much to get here.  And we can't ever risk giving all of that up.",
+            "classification": 1,
+            "positive_likelihood": 0.9999999999999901,
+            "negative_likelihood": 1.317703372403076e-17
+        },
+        {
+            "text": "If you need support to isolate \u2013 whether that's financial, food or anything else \u2013 call the hotline and we'll make sure you get it.  And if you're heading out, make sure you have your mask and stick to the restrictions.",
+            "classification": 1,
+            "positive_likelihood": 1.0,
+            "negative_likelihood": 3.421971219137622e-21
+        },
+        {
+            "text": "As hard as it is, we all have to kick back into gear and get on top of it.  If you've returned from NSW, please follow the individual directions you received from the department.  If you have symptoms, however mild, get tested and stay home until you receive your results.",
+            "classification": 1,
+            "positive_likelihood": 1.0,
+            "negative_likelihood": 3.495926607480968e-18
+        },
+        {
+            "text": "This isn't the start to the New Year anyone wanted.  After 60 days of zero cases and a Christmas spent together, Victorians could be forgiven for thinking \u2013 hoping \u2013 it was all over.  But this virus was never going to just go away.",
+            "classification": 1,
+            "positive_likelihood": 1.0,
+            "negative_likelihood": 9.405008985323888e-19
+        },
+        {
+            "text": "So if you've got the day off, enjoy it \u2013 and stay safe.  And if you're working \u2013 I hope somebody's got a cold one waiting for you afterwards.  You've earned it.",
+            "classification": 1,
+            "positive_likelihood": 0.9999999709102897,
+            "negative_likelihood": 2.9089710382949083e-08
+        },
+        {
+            "text": "But the challenge isn't over just because we desperately want it to be. We all have to remain vigilant, keep getting tested and stick to the restrictions.  That's how we'll continue to get through this.",
+            "classification": 1,
+            "positive_likelihood": 0.9999999999960009,
+            "negative_likelihood": 4.002034921504039e-12
+        },
+        {
+            "text": "But every Victorian should be proud of the role they played last year too \u2013 and continue to play.    Let's not forget the kindness people showed each other when things got tough.   And let's not forget how our state came together to face seemingly impossible challenges head-on.",
+            "classification": 1,
+            "positive_likelihood": 1.0,
+            "negative_likelihood": 3.3944181787495777e-25
+        },
+        {
+            "text": "The Victorians stocking shelves, delivering meals and keeping everyone fed.  Work that is by definition 'essential' \u2013 but hasn't always been recognised or valued as such.  They deserve our gratitude and our respect.",
+            "classification": 1,
+            "positive_likelihood": 1.0,
+            "negative_likelihood": 5.735988134205726e-15
+        },
+        {
+            "text": "The cleaners. Freight drivers. Logistics workers. Garbos. Public transport staff. Firefighters. Police. Ambos.  The healthcare workers on the frontline of this pandemic.  Those working in aged care, disability support, homelessness and family violence services.",
+            "classification": 1,
+            "positive_likelihood": 1.0,
+            "negative_likelihood": 1.920538997774177e-27
+        },
+        {
+            "text": "Happy New Year, Victoria.  To everyone working today to keep our state going and keep us all safe \u2013 thank you.  And it's no coincidence that many of those currently on shift are the same people who got us through 2020.",
+            "classification": 1,
+            "positive_likelihood": 0.9999999999999901,
+            "negative_likelihood": 2.7768768143834477e-15
+        },
+        {
+            "text": "Current exposure sites are listed here, but please keep checking back as this page is updated frequently:  https://t.co/8pxy2vy6C0  And there\u2019s some more info on the border closure and new restrictions here:  https://t.co/rRZoPqALwA",
+            "classification": 1,
+            "positive_likelihood": 0.9999999999970843,
+            "negative_likelihood": 2.9051999148003167e-12
+        },
+        {
+            "text": "I know this will be tough to take. Victorians have been through a lot this year and sacrificed so much.  But we will get through it \u2013 together.",
+            "classification": 1,
+            "positive_likelihood": 0.9999999704706549,
+            "negative_likelihood": 2.952934780904948e-08
+        },
+        {
+            "text": "It doesn't care about the parties we've planned or the camping trip we're packing for.  We have to take this seriously and act quickly.  And the more we can do to stop the spread, the easier that task is for everyone.",
+            "classification": 1,
+            "positive_likelihood": 0.9999999999367222,
+            "negative_likelihood": 6.328068894709223e-11
+        },
+        {
+            "text": "After the year we've all had, I'm sure many of us were looking forward to bidding farewell to 2020 tonight with family and friends.   Maybe even getting on the beers.  But the virus doesn't respect the fact that it's New Year's Eve.",
+            "classification": 1,
+            "positive_likelihood": 1.0,
+            "negative_likelihood": 1.6122523510813255e-16
+        },
+        {
+            "text": "This doesn't include Victorians from the Blue Mountains City Council and Wollongong City Council local government areas, who must apply for a new permit and arrive before 11.59pm tonight.   I know all this will put a dent in a lot of people's plans \u2013 and I'm sorry about that.",
+            "classification": 1,
+            "positive_likelihood": 1.0,
+            "negative_likelihood": 2.710431409944605e-16
+        },
+        {
+            "text": "We've also had to make some difficult decisions about the border with NSW.  From 11.59pm on 1 January, the border will close completely. This will give Victorians currently in the green zone some time to get home \u2013 but it's a small window so we need people to act quickly.",
+            "classification": 1,
+            "positive_likelihood": 1.0,
+            "negative_likelihood": 3.8246091213609477e-22
+        },
+        {
+            "text": "Masks will be mandatory indoors, so if you're heading out tonight please make sure you have one.  And if you feel unwell, give things a miss and stay home. Your friends and family will thank you for it.",
+            "classification": 1,
+            "positive_likelihood": 1.0,
+            "negative_likelihood": 5.6754214461010226e-15
+        },
+        {
+            "text": "As of 5pm this evening some new measures will be in place to make sure everyone stays safe tonight \u2013 and in the days to come.  The private gathering limit will be reduced from 30 to 15.   That means a maximum of 15 guests in your home, not including babies under 12 months.",
+            "classification": 1,
+            "positive_likelihood": 1.0,
+            "negative_likelihood": 5.571852894335234e-19
+        },
+        {
+            "text": "If you visited any of the locations listed you'll need to get tested as soon as possible and isolate until you get your results. Please don't delay it.    That's the nuts and bolts of where we're at.   Here's what's happening next:",
+            "classification": 1,
+            "positive_likelihood": 0.999999999999537,
+            "negative_likelihood": 4.642034912604021e-13
+        },
+        {
+            "text": "The public health team worked through the night to track their movements and get a list of exposure sites together.   This is live on the DHHS website and will be updated frequently, so please take a couple of minutes to have a look.",
+            "classification": 1,
+            "positive_likelihood": 0.9999999999998621,
+            "negative_likelihood": 1.3111356907107282e-13
+        },
+        {
+            "text": "But I just wanted to give everyone a quick update and make sure you've all got the most up-to-date info \u2013 and what will change as a result:  As of this afternoon, there are 8 locally acquired cases in Victoria.   All 8 are safely isolating, as are their close contacts.",
+            "classification": 1,
+            "positive_likelihood": 1.0,
+            "negative_likelihood": 2.4340063224320236e-16
+        },
+        {
+            "text": "This is the news no one wants to hear \u2013 but it's important.  We always knew there would be cases and clusters. We have plans and systems in place to deal with precisely this scenario \u2013 and those are already well underway.",
+            "classification": 1,
+            "positive_likelihood": 1.0,
+            "negative_likelihood": 2.154222713141562e-16
+        },
+        {
+            "text": "You might also look back and realise that even when you were learning at home, you were never alone.  You had a whole support team behind you \u2013 and I know your teachers, family and friends are proud of you too.  Your Premier certainly is.",
+            "classification": 1,
+            "positive_likelihood": 1.0,
+            "negative_likelihood": 3.8906486745966877e-19
+        },
+        {
+            "text": "You'll look back on 2020 \u2013 maybe now, maybe years from now \u2013 and realise that what you learned was more than English or economics.   You learned just how determined you really are. Just how strong you could be.  And that's something to be very proud of.",
+            "classification": 1,
+            "positive_likelihood": 0.9999999999999901,
+            "negative_likelihood": 4.130945384467462e-15
+        },
+        {
+            "text": "And to get through it while separated from your teachers &amp; your mates \u2013 well, that's truly impressive.  Don't worry if today's not your day. If your score's not what you'd hoped, remember there are plenty of opportunities. Plenty of options &amp; pathways to get where you want to go.",
+            "classification": 1,
+            "positive_likelihood": 1.0,
+            "negative_likelihood": 3.0498690370159053e-16
+        },
+        {
+            "text": "This is a little message for all the Year 12 students getting their results today:  Completing your VCE or VCAL is a major achievement in any year. But no one should underestimate just how big an accomplishment it was in 2020.",
+            "classification": 1,
+            "positive_likelihood": 1.0,
+            "negative_likelihood": 2.2748773055301426e-16
+        },
+        {
+            "text": "Merry Christmas, Victoria.  https://t.co/Iu94KH2MRy",
+            "classification": 0,
+            "positive_likelihood": 0.037437919415014655,
+            "negative_likelihood": 0.9625620805849853
+        },
+        {
+            "text": "So please - be kind, be patient.  And if you can - say thanks. Because it's the very least we can do.",
+            "classification": 1,
+            "positive_likelihood": 0.985906428740638,
+            "negative_likelihood": 0.014093571259359991
+        },
+        {
+            "text": "And think about where we'd be if it wasn't for them, and all the work they've done for us.  It's been said a million times - and it'll be said a million times again: but these workers are great Victorians.  They deserve our respect, and they're owed our appreciation.",
+            "classification": 1,
+            "positive_likelihood": 0.9999999999425929,
+            "negative_likelihood": 5.740295643339639e-11
+        },
+        {
+            "text": "Think about all they've dealt with this year - and everything they've done to help pull our state through it too.  Think about going from shelf stocker to essential worker literally overnight - making sure people got what they needed, every single day.",
+            "classification": 1,
+            "positive_likelihood": 1.0,
+            "negative_likelihood": 3.4576551831287e-24
+        },
+        {
+            "text": "I've got a little favour to ask you all.  This week, when you're fitting in some last minute shopping, or stocking up for the big day - think of the person across the counter.  Think of the the checkout staff packing your bags, or the retail assistant helping pick a present.",
+            "classification": 1,
+            "positive_likelihood": 1.0,
+            "negative_likelihood": 6.3229369547868325e-18
+        },
+        {
+            "text": "Just finally \u2013 this will only work if we all do the right thing.   Please don't look for loopholes or try and skirt the rules.  Your family, your community and your state depend on it.",
+            "classification": 1,
+            "positive_likelihood": 0.9999999999899233,
+            "negative_likelihood": 1.0069081972244067e-11
+        },
+        {
+            "text": "I know lots of families will be feeling pretty gutted \u2013 especially since we've all waited so long for that special time together.  But let's face it \u2013 nothing could be as disappointing as seeing all our sacrifices evaporate. Nothing is worth that risk.",
+            "classification": 1,
+            "positive_likelihood": 1.0,
+            "negative_likelihood": 1.4860796158722756e-22
+        },
+        {
+            "text": "People living in local government areas along both sides of the border will be able to use their driver's licence as a passport to travel between Victoria and NSW.  We're also working with the ACT Govt to stop travellers from the red zone entering Victoria via Canberra Airport.",
+            "classification": 1,
+            "positive_likelihood": 1.0,
+            "negative_likelihood": 2.4990029955943316e-20
+        },
+        {
+            "text": "Victoria Police are setting up additional border check-points to ensure only those with permits are allowed to cross into our state.   Regional New South Wales remains a green zone, but residents will still need a valid permit to enter Victoria.",
+            "classification": 1,
+            "positive_likelihood": 1.0,
+            "negative_likelihood": 5.71931580985865e-17
+        },
+        {
+            "text": "Anyone currently in the Northern Beaches 'hot zone' \u2013 including Victorians \u2013 remain under the NSW Chief Health Officer's stay at home orders and will not be permitted to travel to Victoria.",
+            "classification": 1,
+            "positive_likelihood": 1.0,
+            "negative_likelihood": 1.5665885076281334e-15
+        },
+        {
+            "text": "You'll then need to self-quarantine at home for 14 days from the date you were last in a red zone.  DHHS teams will be checking on people to make sure they have everything they need \u2013 and to make sure they're at home.",
+            "classification": 1,
+            "positive_likelihood": 0.9999999999681148,
+            "negative_likelihood": 3.188271722425537e-11
+        },
+        {
+            "text": "For Victorians currently in Greater Sydney or on the Central Coast, you'll have until 11:59pm on Monday 21 December to return home.  You'll need to register for an exemption on the Service Victoria website and get tested within 24 hours of your return.",
+            "classification": 1,
+            "positive_likelihood": 0.9999999999999409,
+            "negative_likelihood": 6.955755110863698e-14
+        },
+        {
+            "text": "People who live in these areas or have visited since 11 December cannot enter our state.   Anyone from the red zone found trying to enter Victoria in breach of these orders will be subject to mandatory 14-day hotel quarantine.",
+            "classification": 1,
+            "positive_likelihood": 1.0,
+            "negative_likelihood": 6.270131381182848e-19
+        },
+        {
+            "text": "Without mandatory masks and stay at home orders across Sydney, we do not have confidence that the situation remains safe.  That's why from 11:59pm tonight, the Greater Sydney area and the Central Coast will be designated a 'red zone'.",
+            "classification": 1,
+            "positive_likelihood": 1.0,
+            "negative_likelihood": 2.599728962054974e-19
+        },
+        {
+            "text": "The situation in NSW is changing fast.  Case numbers are continuing to grow. There are still missing links in the chains of transmission, which suggests there'll be more cases out there that the authorities are yet to find.",
+            "classification": 1,
+            "positive_likelihood": 0.9999999999998423,
+            "negative_likelihood": 1.6573572971865518e-13
+        },
+        {
+            "text": "No Christmas lunch is worth risking everything we've worked so hard for.   As difficult as it is, there will be other times to see loved ones. But we don't get a second chance to get this right.  So please \u2013 take care. Be kind. And stay safe.",
+            "classification": 1,
+            "positive_likelihood": 1.0,
+            "negative_likelihood": 1.1308319269047152e-19
+        },
+        {
+            "text": "I know these changes will affect some people's plans for the holidays \u2013 and I'm sorry about that.  In such a hard year, so many of us have been counting down until we get to see those we've missed so much.  But no family gathering is worth more than someone's life.",
+            "classification": 1,
+            "positive_likelihood": 1.0,
+            "negative_likelihood": 2.1109367058316898e-20
+        },
+        {
+            "text": "People who've been in red zone areas will not be issued a travel permit \u2013 and given the way this thing moves, it's almost certain that more exposure sites will be added.",
+            "classification": 1,
+            "positive_likelihood": 0.9999999999999507,
+            "negative_likelihood": 5.0423229255349946e-14
+        },
+        {
+            "text": "We're also strongly advising Victorians not to travel to Sydney. The situation up there is expected to get worse over the coming days and the red zone is likely to grow.  That means we cannot guarantee you'll be able to come back.",
+            "classification": 1,
+            "positive_likelihood": 1.0,
+            "negative_likelihood": 3.2830169484531707e-16
+        },
+        {
+            "text": "DHHS will also be contacting all airline passengers from NSW who arrived in VIC from 11 Dec. If you travelled from the Nthn Beaches &amp; other NSW exposure sites from 11 Dec, you'll be required to get tested and self quarantine for 14 days from the date you were last in a red zone.",
+            "classification": 1,
+            "positive_likelihood": 1.0,
+            "negative_likelihood": 1.787546837302914e-21
+        },
+        {
+            "text": "Permits and eligibility will be checked at both ends of flights, and DHHS staff will meet all arriving passengers.  At the same time Victoria Police will begin roving patrols at the land border, just as they did during our response to the South Australia outbreak.",
+            "classification": 1,
+            "positive_likelihood": 0.9999999999981285,
+            "negative_likelihood": 1.881334569441574e-12
+        },
+        {
+            "text": "People travelling from Greater Sydney (orange zone) are encouraged to get tested on arrival and self quarantine until they receive a negative result.  And we're asking anyone coming from regional NSW (green zone) to monitor for symptoms.",
+            "classification": 1,
+            "positive_likelihood": 1.0,
+            "negative_likelihood": 4.737361253693659e-20
+        },
+        {
+            "text": "From 11.59pm tonight, we're introducing a permit system for everyone entering VIC from NSW. Anyone who has been to the Nthn Beaches &amp; other hotspots (red zone) won't be allowed to enter. Arrivals from these areas after 11.59pm will be transferred to hotel quarantine for 14 days.",
+            "classification": 1,
+            "positive_likelihood": 1.0,
+            "negative_likelihood": 2.5192160920196034e-18
+        },
+        {
+            "text": "I know people are concerned about what's happening in NSW.  There's no need to panic \u2013 but we absolutely can't afford to get complacent. We all have to take this seriously.  So here's what we're going to do:",
+            "classification": 1,
+            "positive_likelihood": 1.0,
+            "negative_likelihood": 1.3397467559821547e-16
+        },
+        {
+            "text": "Jill Hennessy has made the difficult decision to step back from the ministry.   Jill has my full support in making this choice and I thank her for her incredible service in our Cabinet and to our state.   https://t.co/m5q4Cbzsqk",
+            "classification": 1,
+            "positive_likelihood": 0.9999999999957053,
+            "negative_likelihood": 4.29347702418781e-12
+        },
+        {
+            "text": "Malka Leifer's appeal against extradition has been denied.  And soon, we hope, she'll be returned to Victoria to face these allegations \u2013 as she should.  The fight for justice has been long and painful.  But it's now one step closer for these brave young women and their families.",
+            "classification": 1,
+            "positive_likelihood": 1.0,
+            "negative_likelihood": 5.614054556853441e-20
+        },
+        {
+            "text": "Thanks to the tireless work of the staff and volunteers at Zoos Victoria \u2013 these koalas who were injured in last summer's bushfires are heading home.",
+            "classification": 1,
+            "positive_likelihood": 0.9999998394676691,
+            "negative_likelihood": 1.6053232876602613e-07
+        },
+        {
+            "text": "How it started:                             How it's going:  https://t.co/tw5afHav2Y",
+            "classification": 0,
+            "positive_likelihood": 0.18504817030547216,
+            "negative_likelihood": 0.8149518296945285
+        },
+        {
+            "text": "An accessible version of this statement is available here \u2013 plus a full summary of the settings that will be in place:  https://t.co/LOcRhgSA1b",
+            "classification": 1,
+            "positive_likelihood": 0.9999999645816161,
+            "negative_likelihood": 3.541838223177189e-08
+        },
+        {
+            "text": "Statement from the Premier on Victoria's COVIDSafe Summer:  https://t.co/VDNN5AbzYf",
+            "classification": 0,
+            "positive_likelihood": 0.10377048397461719,
+            "negative_likelihood": 0.8962295160253845
+        },
+        {
+            "text": "And he confirmed that for the first time in our state's history, every Victorian child will make it onto the nice list this year.",
+            "classification": 1,
+            "positive_likelihood": 0.9999999998574477,
+            "negative_likelihood": 1.4254790673371772e-10
+        },
+        {
+            "text": "I just got off a call to deliver the good news, and outline the minimum distance and density requirements for Santa and his little helpers.  Mr Claus agreed that the only thing he and his team will be spreading this Christmas is fun, joy \u2013 and a bit of spirit too.",
+            "classification": 1,
+            "positive_likelihood": 1.0,
+            "negative_likelihood": 1.1887570351120274e-16
+        },
+        {
+            "text": "@Sydeon they're lucky i wasn't in that game I WOULD'VE FLAMED THEM TO THE SHADOW REALMSSSSS\ud83d\ude24\ud83d\ude24\ud83d\ude24",
+            "classification": 1,
+            "positive_likelihood": 0.9973002485569469,
+            "negative_likelihood": 0.002699751443052301
+        },
+        {
+            "text": "@milktpapi  https://t.co/TuYb32PcYp",
+            "classification": 0,
+            "positive_likelihood": 0.004452647235886639,
+            "negative_likelihood": 0.9955473527641129
+        },
+        {
+            "text": "@Valkyrae DW GUYS WE WILL TAKE CARE OF HER \ud83d\ude24",
+            "classification": 0,
+            "positive_likelihood": 0.9023763345715047,
+            "negative_likelihood": 0.09762366542849475
+        },
+        {
+            "text": "@iGumdrop IVE MISSED UR PHOTOSSSSSS &lt;3_&lt;3",
+            "classification": 0,
+            "positive_likelihood": 0.02457245302628742,
+            "negative_likelihood": 0.9754275469737125
+        },
+        {
+            "text": "@REALMizkif great job mizzy",
+            "classification": 0,
+            "positive_likelihood": 0.038256837090828416,
+            "negative_likelihood": 0.9617431629091713
+        },
+        {
+            "text": "@timthetatman LMAO",
+            "classification": 0,
+            "positive_likelihood": 0.00438871643357491,
+            "negative_likelihood": 0.9956112835664246
+        },
+        {
+            "text": "@peterparkTV it's not annoying when it's someone u love!! ((just like ur friends love u)) ^_^",
+            "classification": 1,
+            "positive_likelihood": 0.9954207456188015,
+            "negative_likelihood": 0.004579254381199385
+        },
+        {
+            "text": "treat yourself like someone you love",
+            "classification": 0,
+            "positive_likelihood": 0.9379864082984158,
+            "negative_likelihood": 0.062013591701583985
+        },
+        {
+            "text": "@PokiBruh lmaaaooo no way",
+            "classification": 0,
+            "positive_likelihood": 0.5600492620549954,
+            "negative_likelihood": 0.4399507379450037
+        },
+        {
+            "text": "@starsmitten_ @janjanalt peace for all my bbs \ud83d\udc95",
+            "classification": 0,
+            "positive_likelihood": 0.39196767546341565,
+            "negative_likelihood": 0.6080323245365827
+        },
+        {
+            "text": "@ItzMasayoshi HAPPY BIRTHDAY JOHN! \ud83e\udd73\ud83e\udd73\ud83e\udd73",
+            "classification": 0,
+            "positive_likelihood": 0.0050206733191614965,
+            "negative_likelihood": 0.9949793266808374
+        },
+        {
+            "text": "FIRST travel vlog since covid :D  v e g a s\ud83c\udfb0\ud83c\udfb2\ud83d\udc83  FT. offline tv &amp; many, many friends!   watch full video here \u2b07\ufe0f  https://t.co/RY6FI58Sc9  https://t.co/lRVazOjom0",
+            "classification": 1,
+            "positive_likelihood": 0.9999999999928881,
+            "negative_likelihood": 7.111329250504267e-12
+        },
+        {
+            "text": "@BoxBox happy birthday :D",
+            "classification": 0,
+            "positive_likelihood": 0.009089313818294545,
+            "negative_likelihood": 0.9909106861817052
+        },
+        {
+            "text": "@CrankGameplays good e-morning",
+            "classification": 0,
+            "positive_likelihood": 0.006052843567596327,
+            "negative_likelihood": 0.9939471564324032
+        },
+        {
+            "text": "@PlayVALORANT i just wanna hug him",
+            "classification": 0,
+            "positive_likelihood": 0.149314386148848,
+            "negative_likelihood": 0.8506856138511513
+        },
+        {
+            "text": "@TristanGHill \ud83d\ude2d\ud83d\ude2d",
+            "classification": 0,
+            "positive_likelihood": 0.9166506586953053,
+            "negative_likelihood": 0.08334934130469568
+        },
+        {
+            "text": "update lmao \u201chigh of 91.2\u00b0\u201d  https://t.co/jyjTNEbfwi",
+            "classification": 1,
+            "positive_likelihood": 0.9990211119378526,
+            "negative_likelihood": 0.0009788880621466457
+        },
+        {
+            "text": "@MysticPanda116 i spoke about it a ton, i recommend watching the beginning of the vod if ur curious :)",
+            "classification": 1,
+            "positive_likelihood": 0.9993308006719253,
+            "negative_likelihood": 0.0006691993280719116
+        },
+        {
+            "text": "BACK AT IT AGAINNNNNN \ud83d\udd34 talkin abt invisalign aligners, then gonna play valorant :D  let's brush off the dust \ud83d\ude24  https://t.co/wlT08j266A #ad",
+            "classification": 1,
+            "positive_likelihood": 0.9999999998705091,
+            "negative_likelihood": 1.2948379827827448e-10
+        },
+        {
+            "text": "@nekonathann @itshafu @LilyPichu @AriaSaki @TinaKitten @Sugoi_Ash @Kkatamina @Natsumiii @plushyslol ladies in suits \ud83d\ude29\ud83d\ude29\ud83d\udc9e",
+            "classification": 0,
+            "positive_likelihood": 0.029129068697850792,
+            "negative_likelihood": 0.9708709313021489
+        },
+        {
+            "text": "@lileepeechew \ud83e\udd70\ud83e\udd70",
+            "classification": 0,
+            "positive_likelihood": 0.8333042284391217,
+            "negative_likelihood": 0.16669577156087756
+        },
+        {
+            "text": "@Ahmedabdulmena6 @Natsumiii try shutting the fuck up  https://t.co/5mvhz8yaOv",
+            "classification": 1,
+            "positive_likelihood": 0.9656089745100328,
+            "negative_likelihood": 0.03439102548996661
+        },
+        {
+            "text": "@iGumdrop LMAO thanks jaime &lt;3",
+            "classification": 0,
+            "positive_likelihood": 0.009598358211469695,
+            "negative_likelihood": 0.9904016417885316
+        },
+        {
+            "text": "our a/c is broken and it\u2019s 83\u00b0 in my room \ud83d\ude42",
+            "classification": 1,
+            "positive_likelihood": 0.99988358981111,
+            "negative_likelihood": 0.00011641018888765354
+        },
+        {
+            "text": "@xChocoBars @CopLoL_ HAPPY BIRTHDAY DABIDDD!! \ud83e\udd73",
+            "classification": 0,
+            "positive_likelihood": 0.009089313818294545,
+            "negative_likelihood": 0.9909106861817052
+        },
+        {
+            "text": "@QuarterJade CAN WE PLEASE KISSSSSSS",
+            "classification": 0,
+            "positive_likelihood": 0.014807520024518524,
+            "negative_likelihood": 0.9851924799754809
+        },
+        {
+            "text": "@starsmitten_ ^__^ you're so beautiful and lovely and unique and if you wanna get married someday lemme know ^__^",
+            "classification": 1,
+            "positive_likelihood": 0.997166768261287,
+            "negative_likelihood": 0.00283323173871059
+        },
+        {
+            "text": "@xChocoBars mfw janjan and celine are behind the camera \ud83e\udd70",
+            "classification": 0,
+            "positive_likelihood": 0.8795836884180274,
+            "negative_likelihood": 0.12041631158197232
+        },
+        {
+            "text": "@the_v0idtv for those asking \ud83d\udda4\ud83d\udc96  https://t.co/1DcL2umtDR",
+            "classification": 0,
+            "positive_likelihood": 0.043865692612165816,
+            "negative_likelihood": 0.9561343073878343
+        },
+        {
+            "text": "@fuslie @HyperSeanic @Yassuo @starsmitten_ @yvonnie @edisonparklive @xChocoBars @Valkyrae @AriaSaki @scarra WE SOME MF CUTIES \ud83d\ude0e",
+            "classification": 0,
+            "positive_likelihood": 0.12144188924883598,
+            "negative_likelihood": 0.8785581107511651
+        },
+        {
+            "text": "blackpink in your areaaa  https://t.co/rY4iE6gmWy",
+            "classification": 0,
+            "positive_likelihood": 0.3239741693358463,
+            "negative_likelihood": 0.676025830664154
+        },
+        {
+            "text": "@Sykkuno YOU DID GREAT SYKK AND UR GONNA IMPROVE EVERY TIME \ud83d\udc83",
+            "classification": 0,
+            "positive_likelihood": 0.933520617810032,
+            "negative_likelihood": 0.06647938218996774
+        },
+        {
+            "text": "@luvpersona sykkuno was a very good sport about it all \ud83e\udd72",
+            "classification": 1,
+            "positive_likelihood": 0.9804505768018893,
+            "negative_likelihood": 0.01954942319811182
+        },
+        {
+            "text": "rae took a video of me trying to get sykkuno to dance hahaha  https://t.co/J8No5GRNHH",
+            "classification": 0,
+            "positive_likelihood": 0.5496736749258823,
+            "negative_likelihood": 0.45032632507411985
+        },
+        {
+            "text": "@OTKnetwork my 2nd monitor is ready",
+            "classification": 0,
+            "positive_likelihood": 0.053968084794424886,
+            "negative_likelihood": 0.9460319152055746
+        },
+        {
+            "text": "@DevSynthics @Valkyrae we\u2019d just hug lmao",
+            "classification": 1,
+            "positive_likelihood": 0.973130780150735,
+            "negative_likelihood": 0.026869219849264166
+        },
+        {
+            "text": "@Sydeon hiiii syd",
+            "classification": 0,
+            "positive_likelihood": 0.038821788477021175,
+            "negative_likelihood": 0.96117821152298
+        },
+        {
+            "text": "@lileepeechew what\u2019s money for if not spoiling all my friends \ud83e\udd7a\u2764\ufe0f",
+            "classification": 1,
+            "positive_likelihood": 0.9998193024707959,
+            "negative_likelihood": 0.0001806975292017716
+        },
+        {
+            "text": "@Natsumiii NOW MAKE BABIES!!!!",
+            "classification": 0,
+            "positive_likelihood": 0.07441480469807116,
+            "negative_likelihood": 0.9255851953019277
+        },
+        {
+            "text": "@Natsumiii \ud83e\udd70\ud83e\udd70 CONGRATS YOU TWO!!",
+            "classification": 0,
+            "positive_likelihood": 0.9072547321662677,
+            "negative_likelihood": 0.09274526783373085
+        },
+        {
+            "text": "@BaboAbe GOTTTEEEMMM LETS GOOO \ud83d\udc85\ud83c\udffb \ud83d\udc8d",
+            "classification": 0,
+            "positive_likelihood": 0.0059469167308883195,
+            "negative_likelihood": 0.9940530832691105
+        },
+        {
+            "text": "@BaboAbe :( i\u2019m so sorry... wish you both the best \u2764\ufe0f",
+            "classification": 1,
+            "positive_likelihood": 0.9999976612750232,
+            "negative_likelihood": 2.3387249773754224e-06
+        },
+        {
+            "text": "@Sydeon @QuarterJade @iGumdrop @starsmitten_ @Valkyrae @plushyslol @fuslie @yvonnie @TinaKitten @brookeab GIRLSSSS \ud83d\udc93\ud83d\udc95\ud83d\udc96",
+            "classification": 0,
+            "positive_likelihood": 0.0031006185593888676,
+            "negative_likelihood": 0.9968993814406111
+        },
+        {
+            "text": "@michaelreeves michael whispered this to everyone at our table last night",
+            "classification": 0,
+            "positive_likelihood": 0.5571366872828701,
+            "negative_likelihood": 0.44286331271712764
+        },
+        {
+            "text": "@Trainwreckstv @nmplol aaand kiss!",
+            "classification": 0,
+            "positive_likelihood": 0.05208214336030237,
+            "negative_likelihood": 0.9479178566396983
+        },
+        {
+            "text": "@Valkyrae \ud83d\ude2d\u2764\ufe0f screamer house forever \ud83d\udde3",
+            "classification": 1,
+            "positive_likelihood": 0.9964767865982621,
+            "negative_likelihood": 0.0035232134017355757
+        },
+        {
+            "text": "@JhbTeam i\u2019m nervous around them literally all the time like pls don\u2019t notice i\u2019m not cool or attractive enough to be around u.. p-plz..",
+            "classification": 1,
+            "positive_likelihood": 0.9999999999061767,
+            "negative_likelihood": 9.382395309041666e-11
+        },
+        {
+            "text": "@xChocoBars SAME \ud83d\ude2d\ud83d\ude2d\ud83d\ude2d\ud83d\ude2d",
+            "classification": 0,
+            "positive_likelihood": 0.0031006185593888676,
+            "negative_likelihood": 0.9968993814406111
+        },
+        {
+            "text": "@QuarterJade @Sydeon ily both so so much ^_^",
+            "classification": 0,
+            "positive_likelihood": 0.14133138102931556,
+            "negative_likelihood": 0.8586686189706849
+        },
+        {
+            "text": "1st ever roomie pic!  https://t.co/N3ze1Kkyau",
+            "classification": 0,
+            "positive_likelihood": 0.028869489272894323,
+            "negative_likelihood": 0.9711305107271048
+        },
+        {
+            "text": "@moxie2D idk why i\u2019m seeing this so late but this was amazing",
+            "classification": 1,
+            "positive_likelihood": 0.9996425036117876,
+            "negative_likelihood": 0.0003574963882120004
+        },
+        {
+            "text": "@sh0kdart @flexinja @Sydeon",
+            "classification": 0,
+            "positive_likelihood": 0.0031006185593888676,
+            "negative_likelihood": 0.9968993814406111
+        },
+        {
+            "text": "@maobaby @carmiico ....i\u2019m interested.... \ud83d\ude33",
+            "classification": 1,
+            "positive_likelihood": 0.9897381055872502,
+            "negative_likelihood": 0.010261894412748239
+        },
+        {
+            "text": "@poorIighting ur icon \ud83d\ude2d so cute \ud83d\ude2d yes plz!",
+            "classification": 0,
+            "positive_likelihood": 0.7271709391984426,
+            "negative_likelihood": 0.2728290608015551
+        },
+        {
+            "text": "@_sugarbones I LOVE @maobaby !! hat from @maobaby , everyone!!! \u263a\ufe0f\u263a\ufe0f",
+            "classification": 0,
+            "positive_likelihood": 0.38200635560727664,
+            "negative_likelihood": 0.6179936443927233
+        },
+        {
+            "text": "@TSM_Myth  https://t.co/Lvy0AQMtHS",
+            "classification": 0,
+            "positive_likelihood": 0.004452647235886639,
+            "negative_likelihood": 0.9955473527641129
+        },
+        {
+            "text": "@starsmitten_ god ily guys and god i love rae for driving",
+            "classification": 0,
+            "positive_likelihood": 0.17658760901082937,
+            "negative_likelihood": 0.8234123909891721
+        },
+        {
+            "text": "@jschlatt ur not wrong, i\u2019ll cry with u",
+            "classification": 1,
+            "positive_likelihood": 0.998105763195542,
+            "negative_likelihood": 0.001894236804455036
+        },
+        {
+            "text": "@xChocoBars ty for helping me choose which to post \ud83e\udd72\u2764\ufe0f",
+            "classification": 0,
+            "positive_likelihood": 0.946110169713588,
+            "negative_likelihood": 0.05388983028641159
+        },
+        {
+            "text": "@jschlatt what\u2019s wrong schlatt \ud83d\ude14",
+            "classification": 1,
+            "positive_likelihood": 0.9999988360448673,
+            "negative_likelihood": 1.1639551329039553e-06
+        },
+        {
+            "text": "have a beary nice day \u0295 \u2022\u1d25\u2022\u0294  https://t.co/9mARNVjqFx",
+            "classification": 0,
+            "positive_likelihood": 0.25098351029323923,
+            "negative_likelihood": 0.749016489706761
+        },
+        {
+            "text": "@Natsumiii fixed \ud83e\udd72\u2764\ufe0f looks amazing!",
+            "classification": 0,
+            "positive_likelihood": 0.07869162028456116,
+            "negative_likelihood": 0.9213083797154379
+        },
+        {
+            "text": "@iGumdrop a whole ass cutie!! \ud83d\ude1a",
+            "classification": 0,
+            "positive_likelihood": 0.025715251382267455,
+            "negative_likelihood": 0.974284748617731
+        },
+        {
+            "text": "may moments vlog //  getting vaccinated \ud83d\udc89  apartment hunting in LA \ud83c\udfe8 celebrating my bday with OTV + more! \ud83c\udf70  watch below~  https://t.co/33EjalXs5F \u2728  https://t.co/5eQnYima8p",
+            "classification": 1,
+            "positive_likelihood": 0.9999999999988574,
+            "negative_likelihood": 1.1386248403081041e-12
+        },
+        {
+            "text": "@xChocoBars @starsmitten_ \ud83d\udc9e\ud83e\udd70\ud83d\udc9e",
+            "classification": 0,
+            "positive_likelihood": 0.0031006185593888676,
+            "negative_likelihood": 0.9968993814406111
+        },
+        {
+            "text": "@boburnham can we listen on stream please \ud83e\udd7a",
+            "classification": 0,
+            "positive_likelihood": 0.8775636291615663,
+            "negative_likelihood": 0.12243637083843438
+        },
+        {
+            "text": "@peterparkTV grats pp :)",
+            "classification": 0,
+            "positive_likelihood": 0.06213415883830385,
+            "negative_likelihood": 0.9378658411616959
+        },
+        {
+            "text": "@AsteIic twinsies?",
+            "classification": 0,
+            "positive_likelihood": 0.1666375658379433,
+            "negative_likelihood": 0.8333624341620576
+        },
+        {
+            "text": "@yellowspoongirl workout plan by kanye west &amp; workout by j cole",
+            "classification": 0,
+            "positive_likelihood": 0.22250051879672103,
+            "negative_likelihood": 0.7774994812032798
+        },
+        {
+            "text": "@CrypticNoHoes fndksamwo",
+            "classification": 0,
+            "positive_likelihood": 0.0031006185593888676,
+            "negative_likelihood": 0.9968993814406111
+        },
+        {
+            "text": "@Sodapoppintv you\u2019re a furry, too? we have so much in common! \u263a\ufe0f",
+            "classification": 1,
+            "positive_likelihood": 0.9999996549687082,
+            "negative_likelihood": 3.450312914826852e-07
+        },
+        {
+            "text": "@CrypticNoHoes do u know what a timezone is?",
+            "classification": 0,
+            "positive_likelihood": 0.07043712799320656,
+            "negative_likelihood": 0.9295628720067932
+        },
+        {
+            "text": "early morning minecrafter \ud83e\ude93 \ud83e\udd13  live @  https://t.co/nlEB4gohua  https://t.co/5rCVcXISSm",
+            "classification": 0,
+            "positive_likelihood": 0.09627191779176908,
+            "negative_likelihood": 0.9037280822082314
+        },
+        {
+            "text": "@Sykkuno happy birthday sykkuwu!! ^_^",
+            "classification": 0,
+            "positive_likelihood": 0.21138759099752547,
+            "negative_likelihood": 0.7886124090024731
+        },
+        {
+            "text": "@tadic_onfire ur welcome cutie have a good day ^~^",
+            "classification": 0,
+            "positive_likelihood": 0.07356167270077292,
+            "negative_likelihood": 0.9264383272992255
+        },
+        {
+            "text": "@JackManifoldTV are you minecraft? \ud83d\ude33",
+            "classification": 0,
+            "positive_likelihood": 0.12497708329744865,
+            "negative_likelihood": 0.8750229167025518
+        },
+        {
+            "text": "@Nihaachu GRATS SIS \ud83d\udc96",
+            "classification": 0,
+            "positive_likelihood": 0.010265033271328546,
+            "negative_likelihood": 0.9897349667286703
+        },
+        {
+            "text": "minecraft",
+            "classification": 0,
+            "positive_likelihood": 0.12497708329744865,
+            "negative_likelihood": 0.8750229167025518
+        },
+        {
+            "text": "@poopernoodle i love it and your feet \ud83d\ude33",
+            "classification": 0,
+            "positive_likelihood": 0.011704189781465056,
+            "negative_likelihood": 0.9882958102185351
+        },
+        {
+            "text": "@reechuuu @LilyPichu @scarra @AriaSaki @michaelreeves @annoyingaria @lileepeechew \ud83e\udd7a pokinoms!! \ud83e\udd7a",
+            "classification": 0,
+            "positive_likelihood": 0.0031006185593888676,
+            "negative_likelihood": 0.9968993814406111
+        },
+        {
+            "text": "@Nihaachu HECKIES YEAH!! also no promises on not digging straight down, i'm a curious one.. \ud83d\udc40",
+            "classification": 1,
+            "positive_likelihood": 0.9901297710657783,
+            "negative_likelihood": 0.009870228934223742
+        },
+        {
+            "text": "@plshaveacarrot @Nihaachu I\u2019M GONNA DIG STRAIGHT DOWN",
+            "classification": 1,
+            "positive_likelihood": 0.9982465301418277,
+            "negative_likelihood": 0.0017534698581721055
+        },
+        {
+            "text": "@Nihaachu i\u2019m playing minecraft today, do u have any advice \ud83e\udd7a",
+            "classification": 1,
+            "positive_likelihood": 0.9999257211204989,
+            "negative_likelihood": 7.427887950031636e-05
+        },
+        {
+            "text": "@DisguisedToast U BELONG AT THE COOL KIDS TABLE \ud83d\ude0e",
+            "classification": 0,
+            "positive_likelihood": 0.11213568556829195,
+            "negative_likelihood": 0.8878643144317089
+        },
+        {
+            "text": "@mxmtoon i freaking love you maia lmao",
+            "classification": 0,
+            "positive_likelihood": 0.437256960577554,
+            "negative_likelihood": 0.5627430394224445
+        },
+        {
+            "text": "@beeondiscord boutta be obnoxiously supportive in order to filter these ppl out of following me lol",
+            "classification": 1,
+            "positive_likelihood": 0.9998071138270556,
+            "negative_likelihood": 0.00019288617294143477
+        },
+        {
+            "text": "happy #pride month \u2764\ufe0f\ud83e\udde1\ud83d\udc9b\ud83d\udc9a\ud83d\udc99\u263a\ufe0f you are valid, loved &amp; deserving of respect!",
+            "classification": 1,
+            "positive_likelihood": 0.9999757862960406,
+            "negative_likelihood": 2.421370395660229e-05
+        },
+        {
+            "text": "@LilyPichu i was grinning from ear to ear while reading every single one of the descriptions. ur amazing lily!! ^_____^",
+            "classification": 1,
+            "positive_likelihood": 0.9999996839770663,
+            "negative_likelihood": 3.1602292738659645e-07
+        },
+        {
+            "text": "@stillindigo @scarra @LilyPichu @DisguisedToast @michaelreeves @yvonnie @brodinplett please don't ever stop posting these... p-please \ud83d\ude2d",
+            "classification": 1,
+            "positive_likelihood": 0.9999973819104654,
+            "negative_likelihood": 2.6180895334642833e-06
+        },
+        {
+            "text": "@qcures LMAAAOOO",
+            "classification": 0,
+            "positive_likelihood": 0.1666375658379433,
+            "negative_likelihood": 0.8333624341620576
+        },
+        {
+            "text": "@melinagoranson i don't think being shy necessarily means you're insecure! some people like to keep to themselves / open up down the road :)",
+            "classification": 1,
+            "positive_likelihood": 0.9999999996902305,
+            "negative_likelihood": 3.0977172975271793e-10
+        },
+        {
+            "text": "shy people are so cute \u263a\ufe0f",
+            "classification": 1,
+            "positive_likelihood": 0.9923199381155988,
+            "negative_likelihood": 0.007680061884401543
+        },
+        {
+            "text": "@proxyfox the fit \ud83d\ude29 \ud83d\udd25",
+            "classification": 0,
+            "positive_likelihood": 0.6660611629251096,
+            "negative_likelihood": 0.333938837074891
+        },
+        {
+            "text": "GARTIC PHONE PART TWOOO WOOO  ft. @LilyPichu (twerking post-covid) @Natsumiii @Sydeon @TinaKitten @DisguisedToast @AriaSaki @Kkatamina @brodinplett \ud83d\ude04  watch \u21aa\ufe0f  https://t.co/cFdBrJpKrI  https://t.co/X6vQeCAG3e",
+            "classification": 1,
+            "positive_likelihood": 0.9999978603035764,
+            "negative_likelihood": 2.1396964191162822e-06
+        },
+        {
+            "text": "@ShahZaMk CONGRATS!! \ud83e\udd73\ud83e\udd73",
+            "classification": 0,
+            "positive_likelihood": 0.0007985548311996138,
+            "negative_likelihood": 0.999201445168799
+        },
+        {
+            "text": "@Sykkuno c ya there sykk!! \ud83c\udf31",
+            "classification": 0,
+            "positive_likelihood": 0.0010001142722703908,
+            "negative_likelihood": 0.99899988572773
+        },
+        {
+            "text": "@adeptthebest sure and @xQc can sleep outside ^_^",
+            "classification": 0,
+            "positive_likelihood": 0.9127944484088445,
+            "negative_likelihood": 0.08720555159115592
+        },
+        {
+            "text": "@LudwigAhgren @Sykkuno is this man bothering you?",
+            "classification": 0,
+            "positive_likelihood": 0.2893422593951838,
+            "negative_likelihood": 0.7106577406048151
+        },
+        {
+            "text": "happy to announce the OTV minecraft server is coming back on June 2nd at 12PM! \ud83e\udd73\ud83e\udd73\ud83e\udd73",
+            "classification": 1,
+            "positive_likelihood": 0.999750186602275,
+            "negative_likelihood": 0.00024981339772822616
+        },
+        {
+            "text": "VCT watch party \ud83e\udd73 ft @diceyzx    https://t.co/wlT08j266A \ud83d\udd34",
+            "classification": 0,
+            "positive_likelihood": 0.4635729390368767,
+            "negative_likelihood": 0.5364270609631236
+        },
+        {
+            "text": "@Valkyrae Focus on your health first !! We will be cheering you on!!\ud83d\ude3c\ud83d\ude3c",
+            "classification": 1,
+            "positive_likelihood": 0.9873723064319733,
+            "negative_likelihood": 0.012627693568025457
+        },
+        {
+            "text": "@Meep89038243 @Corpse_Husband @DisguisedToast @starsmitten_ @xChocoBars @pokimanelol @Kkatamina @Natsumiii @BaboAbe @Sykkuno @Valkyrae @h7une @fuslie yup download link is in my profile!",
+            "classification": 0,
+            "positive_likelihood": 0.00019695293376056078,
+            "negative_likelihood": 0.9998030470662385
+        },
+        {
+            "text": "@scarra COPIUM",
+            "classification": 0,
+            "positive_likelihood": 0.0031006185593888676,
+            "negative_likelihood": 0.9968993814406111
+        },
+        {
+            "text": "@CreepixTC @AriaSaki @iGumdrop @KristoferYee @bnans @BoxBox @39daph @plushyslol @itshafu @edisonparklive @TSM_Myth @blaustoise @scarra @Shiphtur @starsmitten_ @xChocoBars @BaboAbey @Jacksepticeye @fuslie @Natsumiii @Sykkuno @brodinplett @pokimanelol @Sydeon @DisguisedToast @Valkyrae @brookeab @yvonnie U gotta download vba on pc which is an emulator for gaameboy advance game and download the rom and play!!",
+            "classification": 1,
+            "positive_likelihood": 0.9995419320020983,
+            "negative_likelihood": 0.0004580679979017226
+        },
+        {
+            "text": "@fuslie @AriaSaki @iGumdrop @KristoferYee @bnans @BoxBox @39daph @plushyslol @itshafu @edisonparklive @TSM_Myth @blaustoise @scarra @Shiphtur @starsmitten_ @xChocoBars @BaboAbey @Jacksepticeye @Natsumiii @Sykkuno @brodinplett @pokimanelol @Sydeon @DisguisedToast @Valkyrae @brookeab @yvonnie YES MAYOR, Thank you for always putting up hilarious contents for us viewers! really appreciate it CHAMPION!",
+            "classification": 1,
+            "positive_likelihood": 0.9991863438129182,
+            "negative_likelihood": 0.0008136561870810836
+        },
+        {
+            "text": "if u wan try the game u can download it at  https://t.co/cOz35vBuk3 for 24 hrs!",
+            "classification": 0,
+            "positive_likelihood": 0.7268577837977552,
+            "negative_likelihood": 0.273142216202244
+        },
+        {
+            "text": "All battle sprites in my fan-made Pokemon OTV &amp; Friends Version!! @AriaSaki @iGumdrop @KristoferYee @bnans @BoxBox @39daph @plushyslol @itshafu @itshafu @edisonparklive @TSM_Myth @blaustoise @scarra @Shiphtur @starsmitten_ @xChocoBars @BaboAbey @BoxBox @Jacksepticeye and others:3  https://t.co/M5F8DbTO3H",
+            "classification": 0,
+            "positive_likelihood": 0.7076739047780516,
+            "negative_likelihood": 0.29232609522194974
+        },
+        {
+            "text": "@_countingpotato THIS IS JUST FOR FUN NO NEED NO GO FUND ME :3",
+            "classification": 0,
+            "positive_likelihood": 0.5737355469433774,
+            "negative_likelihood": 0.42626445305662347
+        },
+        {
+            "text": "Pokemon Fan-made OTV &amp; Friends Version sneak peak 2 @pokimanelol @michaelreeves @LilyPichu @BaboAbe @Natsumiii  https://t.co/JRmtbbZfbm",
+            "classification": 0,
+            "positive_likelihood": 0.9345453456177061,
+            "negative_likelihood": 0.06545465438229676
+        },
+        {
+            "text": "Pokemon Fan-made OTV &amp; Friends Version sneak peak @starsmitten_ @xChocoBars @TinaKitten @Sydeon  https://t.co/XxlH7DWOxb",
+            "classification": 0,
+            "positive_likelihood": 0.8270627444260698,
+            "negative_likelihood": 0.17293725557392822
+        },
+        {
+            "text": "List of OTV &amp; Friends in the game!  https://t.co/xvC57qvEOz",
+            "classification": 0,
+            "positive_likelihood": 0.1999237096927822,
+            "negative_likelihood": 0.8000762903072174
+        },
+        {
+            "text": "Pokemon OTV &amp; Friends Version  Made to appreciate OTV &amp; Friends  Coming Out on 21 June 8pm PST  Ft. @Corpse_Husband  @DisguisedToast  @starsmitten_  @xChocoBars  @pokimanelol  @Kkatamina  @Natsumiii @BaboAbe  @Sykkuno  @Valkyrae  @h7une  @fuslie and many more!  Enjoy the trailer!  https://t.co/N2qMdXn3ID",
+            "classification": 1,
+            "positive_likelihood": 0.9999407051834263,
+            "negative_likelihood": 5.929481657575612e-05
+        },
+        {
+            "text": "@Natsumiii Yay more songs from wondy!!\ud83d\ude3b\ud83d\ude4f\ud83c\udffb",
+            "classification": 0,
+            "positive_likelihood": 0.04165080229723527,
+            "negative_likelihood": 0.9583491977027632
+        },
+        {
+            "text": "@starsmitten_ How bout an OTV and Friends Pokemon Rom hack in the future!!",
+            "classification": 0,
+            "positive_likelihood": 0.4476569562415905,
+            "negative_likelihood": 0.5523430437584078
+        },
+        {
+            "text": "@h7une Please let it happen sir!!  https://t.co/IE403KBcF8",
+            "classification": 0,
+            "positive_likelihood": 0.8272023430666631,
+            "negative_likelihood": 0.17279765693333607
+        },
+        {
+            "text": "MAD DRUNK MAN DANCING IN CLUB GAMBLE CAR AWAY IS BACK FOR MORE CHILL DAY \ud83d\ude3b\ud83d\ude3b\ud83d\ude3b  https://t.co/Ybhaaa1Bvp",
+            "classification": 1,
+            "positive_likelihood": 0.9998618230203163,
+            "negative_likelihood": 0.00013817697968783834
+        }
+    ],
+    "depressed": false,
+    "switchpoint": 0.8,
+    "classification_switchpoint": 0.96
+}

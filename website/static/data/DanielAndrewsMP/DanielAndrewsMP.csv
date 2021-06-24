@@ -1,0 +1,12 @@
+model_id,96
+username,DanielAndrewsMP
+total_posts,100
+total_positive,95
+total_negative,5
+percent_positive,0.95
+percent_negative,0.05
+average_positive_likelihood,0.9661379334472029
+average_negative_likelihood,0.03386206655279669
+depressed,True
+switchpoint,0.8
+classification_switchpoint,0.96
